@@ -1,2 +1,2 @@
-# essays
+# Pecan
 Juncture visual essays
