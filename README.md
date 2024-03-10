@@ -28,3 +28,10 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
 
 ## MK's Pecan Image
 
+### Nut Diagram, "Trees as Good as Citizens"
+This image shows illustrations of different kinds of nuts --- the pecan included. The similarities between Hickory, Pecan, and Walnut are notable, in that the three were often confused for the other in early days. 
+<param ve-image 
+       url="https://www.archive.org/download/treesasgoodcitiz00packrich/page/n147_w407">
+       label="Trees as Good as Citizens"
+       description="Nut Diagram"
+       license="public domain"
