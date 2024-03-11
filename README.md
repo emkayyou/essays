@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Pecan Narrative"
-       author="MaryKathryn Underwood, Stephania Rocca, Paolo Taffaro"
+       author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pecan_pie%2C_November_2010.jpg/640px-Pecan_pie%2C_November_2010.jpg"
        layout="vertical">
 
@@ -36,3 +36,6 @@ This image shows illustrations of different kinds of nuts --- the pecan included
        description="Nut Diagram"
        license="public domain">
 
+## Stef's Pecan Image
+
+###
