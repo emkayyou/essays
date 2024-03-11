@@ -39,7 +39,7 @@ This image shows illustrations of different kinds of nuts --- the pecan included
 ## Stef's Pecan Image
 
 ### Geography of the Pecan
-This image exhibits the area of the United States where the Pecan Tree is native to. <span data-mouseover-image-zoomto="-109,1,3063,2691">As one can see, the pecan was mostly located in the Southern area of America </span>,near the Mississippi River.
+This image exhibits the area of the United States where the Pecan Tree is native to. <span data-mouseover-image-zoomto="280,110,2286,2009">As one can see, the pecan was mostly located in the Southern area of America </span>,near the Mississippi River.
 <param ve-image
        url="https://www.biodiversitylibrary.org/pageImage/42277934"
        label="Pecan Growing"
