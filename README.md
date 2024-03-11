@@ -39,10 +39,10 @@ This image shows illustrations of different kinds of nuts --- the pecan included
 ## Stef's Pecan Image
 
 ### Geography of the Pecan
-This image exhibits the area of the United States where the Pecan Tree is native to.
+This image exhibits the area of the United States where the Pecan Tree is native to. <span data-mouseover-image-zoomto="7,119,687,643">
 <param ve-image
-       url="https://www.biodiversitylibrary.org/pageimage/42277934"
+       url="https://www.biodiversitylibrary.org/pageImage/42277934"
        label="Pecan Growing"
        description="Showing the range of the Pecan"
-       license="public domain"
-
+       license="public domain">
+       
