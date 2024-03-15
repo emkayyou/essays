@@ -32,7 +32,7 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
 
 <param ve-map
        center="44.826771605406485, -32.95883474013582"
-       zoom="3"
+       zoom="2"
        Title="American South"
        show-labels>
 <param ve-map-layer geojson
