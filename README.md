@@ -28,7 +28,7 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
 
 ### Paolo's Map of San Antonio
 
-San Antonio was an important place of discovery for the Spanish in the Early Modern period. It later became significant in the labor rights movement during the Pecan Shellers' Strike of 1938, when thousands of laborers protested the poor working conditions and pradatory wages.
+San Antonio was an important place of discovery for the Spanish in the Early Modern period. It later became significant in the labor rights movement during the <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 14">Pecan Shellers' Strike</span> of 1938, when thousands of laborers protested the poor working conditions and pradatory wages.
 
 <param ve-map
        center="34.328981419887434, -90.79370394592483"
@@ -36,7 +36,7 @@ San Antonio was an important place of discovery for the Spanish in the Early Mod
        Title="American South"
        show-labels>
 <param ve-map-marker
-       url=" https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
        coords="29.439590464092426, -98.49740017110501"
        size="512, 328" 
        circle="true">
