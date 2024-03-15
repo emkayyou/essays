@@ -36,7 +36,7 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        Title="American South"
        prefer-geojson>
 <param ve-map-layer geojson
-	url="file:///C:/Users/PaoloTaffaroSJ/Downloads/map.geojson"
+	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
