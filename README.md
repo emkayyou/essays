@@ -43,7 +43,7 @@ When explorers first came <span data-mouseover-map-flyto="34.328981419887434, -9
 <param ve-map-marker
        url="https://npr.brightspotcdn.com/dims4/default/23c3a1e/2147483647/strip/true/crop/1412x1040+0+0/resize/1760x1296!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkstx%2Ffiles%2F201809%2FPecanShellers2.jpg"
        coords="29.439590464092426, -98.49740017110501"
-       size="512, 328"
+       size="600, 400"
        circle="true">
 
 ## MK's Pecan Image
