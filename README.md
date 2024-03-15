@@ -45,6 +45,8 @@ When explorers first came <span data-mouseover-map-flyto="34.328981419887434, -9
        coords="29.439590464092426, -98.49740017110501"
        size="1000, 700"
        circle="true">
+<param ve-map-layer geojson
+	url="https://geojson.io/#map=4.15/32.28/-93.37">
 
 ## MK's Pecan Image
 
