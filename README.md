@@ -37,7 +37,8 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        prefer-geojson>
 <param ve-map-layer geojson
 	url="https://geojson.io/#map=4.15/32.28/-93.37"
-	show-labels>
+	show-labels
+	stroke-width="0">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cabeza_de_Vaca_Portrait.jpg/640px-Cabeza_de_Vaca_Portrait.jpg"
        coords="40.41876802132462, -3.690965698921055"
