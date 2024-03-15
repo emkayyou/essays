@@ -28,15 +28,15 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
 
 ### Paolo's Map of San Antonio
 
-47.886370286054536, 2.426813819726559<span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">The Spanish</span> moved from Florida to Texas along the Gulf Coast, exploring what the New World had to offer. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population, highlighting San Antonio as a particularly promising site for capitalistic ventures. During the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now called the <span data-mouseover-map-flyto="29.414579644080305, -98.51945869215106, 14">Pecan Shellers' Strike</span> of 1938.
+When explorers first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">The Spanish</span> moved from Florida to Texas along the Gulf Coast, exploring what the New World had to offer. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population, highlighting San Antonio as a particularly promising site for capitalistic ventures. During the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now called the <span data-mouseover-map-flyto="29.414579644080305, -98.51945869215106, 14">Pecan Shellers' Strike</span> of 1938.
 
 <param ve-map
        center="47.886370286054536, 2.426813819726559"
-       zoom="5"
+       zoom="4"
        Title="American South"
        show-labels>
 <param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
+       url="https://www.loc.gov/item/2017782713/"
        coords="29.439590464092426, -98.49740017110501"
        size="512, 328" 
        circle="true">
