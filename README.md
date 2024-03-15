@@ -26,6 +26,21 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
        region="-701,229,3885,3750">
 
+### Paolo's Map of San Antonio
+
+San Antonio was an important place of discovery for the Spanish in the Early Modern period. It later became significant in the labor rights movement during the Pecan Shellers' Strike of 1938, when thousands of laborers protested the poor working conditions and pradatory wages.
+
+<param ve-map
+       center="41.89293, 12.49058"
+       zoom="5"
+       Title="City of Rome"
+       show-labels>
+<param ve-map-marker
+       url=" https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
+       coords="41.89293, 12.49058"
+       size="512, 328" 
+       circle="true">
+
 ## MK's Pecan Image
 
 ### Nut Diagram, "Trees as Good as Citizens"
