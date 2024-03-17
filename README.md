@@ -70,7 +70,7 @@ zoom="2"
 Title="Oak Alley Plantation"
 show-labels>
 <param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/c/c5/Roman_Colosseum_icon.svg"
+url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Oak_alley_-_view_from_front.jpg?20120903075509"
 coords="30.00449, -90.77604"
 size="800, 571" 
 circle="true">
