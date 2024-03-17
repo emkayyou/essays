@@ -94,7 +94,8 @@ Business reports have recorded that starting in the early 2000s (especially in 2
  	zoom="2"
   	Title="Hong Kong"
    	show-labels>
-<param ve-map-marker				url="https://upload.wikimedia.org/wikipedia/commons/0/06/Cargo_Ship_Puerto_Cortes.jpg)https://upload.wikimedia.org/wikipedia/commons/0/06/Cargo_Ship_Puerto_Cortes.jpg"
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cargo_ship_1.png"
 	coords="22.28579, 114.16417"
 	size="512, 328" 
 	circle="true">
