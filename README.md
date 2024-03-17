@@ -90,7 +90,7 @@ This image exhibits the area of the United States where the Pecan Tree is native
 Business reports have recorded that starting in the early 2000s (especially in 2013), pecan exports from the United States to China have skyrocketed. This is due to the associated health benefits that pecans can offer individuals, as well as the price of the pecan is more affordable than walnuts. Most exports come from farms in East Texas and Georgia, then shipped to Hong Kong, China.
 
 <param ve-map
-	center="114.16128962919441,22.279501049131127"
+	center="22.3526, 114.1603"
  	zoom="2"
   	Title="Hong Kong"
    	show-labels>
