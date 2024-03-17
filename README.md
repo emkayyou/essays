@@ -87,8 +87,9 @@ This image exhibits the area of the United States where the Pecan Tree is native
        license="public domain">
 
 ### Stef's Map of Pecan Exports to China
-Business reports have recorded that starting in the early 2000s (especially in 2013), pecan exports from the United States to China have skyrocketed. This is due to the associated health benefits that pecans can offer individuals, as well as the price of the pecan is more affordable than walnuts. Most exports come from farms in East Texas and Georgia, then shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China.
+Business reports have recorded that starting in the early 2000s (especially in 2013), pecan exports from the United States to China have skyrocketed. This is due to the associated health benefits that pecans can offer individuals, as well as the price of the pecan is more affordable than walnuts. Most exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, then shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China.
 
+32.708, -83.178, 5
 <param ve-map
 	center="22.3526, 114.1603"
  	zoom="2"
