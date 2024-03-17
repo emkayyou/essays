@@ -97,6 +97,6 @@ Business reports have recorded that starting in the early 2000s (especially in 2
 <param ve-map-marker
 	url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cargo_ship_1.png"
 	coords="22.28579, 114.16417"
-	size="800, 363" 
+	size="512, 328"
 	rectangle="true">
 
