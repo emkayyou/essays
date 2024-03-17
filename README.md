@@ -108,4 +108,14 @@ Business reports have recorded that starting in the early 2000s (especially in 2
 	coords="22.28579, 114.16417"
 	size="512, 328"
 	circle="true">
+ <param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/c/cf/20111012-NRCS-JMV-0002_-_Flickr_-_USDAgov.jpg"
+	coords="29.018, -98.685"
+	size="512, 328"
+	circle="true">
+  <param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
+	coords="31.8402, -83.6224"
+	size="512, 328"
+	circle="true">
 
