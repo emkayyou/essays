@@ -37,6 +37,7 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        prefer-geojson>
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
+	label="Laborer being arrested for protesting"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
