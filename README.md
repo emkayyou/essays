@@ -67,7 +67,7 @@ The first person to graft a pecan tree, leading to the domestication of the peca
 
 <param ve-map
 center="30.00449, -90.77604"
-zoom="20"
+zoom="15"
 Title="Oak Alley Plantation"
 show-labels>
 <param ve-map-marker
