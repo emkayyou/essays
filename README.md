@@ -56,12 +56,12 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
 ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
 
 <param ve-map
-	center="Q1588"
+	center="33.78640778152119, -89.82719521797493"
 	zoom="5"
 	title="US"
 	prefer-geojson>
 <param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
+	url="https://raw.githubusercontent.com/emkayyou/essays/main/codetest.json"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
