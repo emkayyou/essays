@@ -51,6 +51,25 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        size="512, 328"
        circle="true">
 
+## checking code
+
+ALLIE PAR. 1: Follow the slave trade across the Atlantic and venture into the Antebellum south.
+
+<param ve-map
+	center="Q1588"
+	zoom="5"
+	title="US"
+	prefer-geojson>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/allisonamber/AbelmoschusEsculentus/main/ALLIEAMERICANSOUTHMAPOVERLAY"
+	show-labels
+	stroke-width="0">
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gumbo_-_7487791838.jpg/640px-Gumbo_-_7487791838.jpg"
+	coords="30.96, -91.401"
+	size="512, 328"
+	circle="true">
+
 ## MK's Pecan Image
 
 ### Nut Diagram, "Trees as Good as Citizens"
