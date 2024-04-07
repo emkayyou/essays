@@ -26,7 +26,7 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
        region="-701,229,3885,3750">
 
-### Paolo's Map of San Antonio
+### Paolo's Map of Spanish exploration
 
 When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population and recognized San Antonio as a particularly promising site for capitalistic ventures. Specifically, they recognized an area southeast of San Antonio at the confluence of the San Antonio and Guadelupe Rivers which was so plentiful that Cabeza de Vaca named it <span data-mouseover-map-flyto="28.507321, -96.891096, 13">"the river of nuts."</span>
 
@@ -51,18 +51,18 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        size="512, 328"
        circle="true">
 
-### Paolo's Map of Spanish exploration
+### Paolo's Map of San Antonio
 
-When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population and recognized San Antonio as a particularly promising site for capitalistic ventures. Later, during the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now known as the <span data-mouseover-map-flyto="28.507321, -96.891096, 13 29.414579644080305, -98.51945869215106, 13">Pecan Shellers' Strike</span> of 1938.
+During the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now known as the <span data-mouseover-map-flyto="29.414579644080305, -98.51945869215106, 13">Pecan Shellers' Strike</span> of 1938.
 
 <param ve-map
-       center="44.826771605406485, -32.95883474013582"
-       zoom="2"
+       center="34.328981419887434, -90.79370394592483"
+       zoom="5"
        Title="American South"
        prefer-geojson>
 <param ve-map-layer geojson
 	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
-	label="Laborer being arrested for protesting"
+	label="Map overlay of Pecan population"
 	show-labels
 	stroke-width="0">
 <param ve-map-marker
