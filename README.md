@@ -47,7 +47,7 @@ When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <spa
        circle="true">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Guadalupe_river_Hunt_TX.jpg"
-       coords="29.439590464092426, -98.49740017110501"
+       coords="28.507321, -96.891096"
        size="512, 328"
        circle="true">
 
