@@ -28,7 +28,32 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
 
 ### Paolo's Map of San Antonio
 
-When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population and recognized San Antonio as a particularly promising site for capitalistic ventures. Later, during the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now known as the <span data-mouseover-map-flyto="29.414579644080305, -98.51945869215106, 13">Pecan Shellers' Strike</span> of 1938.
+When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population and recognized San Antonio as a particularly promising site for capitalistic ventures. Later, during the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now known as the <span data-mouseover-map-flyto="28.507321, -96.891096, 13">Pecan Shellers' Strike</span> of 1938.
+
+<param ve-map
+       center="44.826771605406485, -32.95883474013582"
+       zoom="2"
+       Title="American South"
+       prefer-geojson>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
+	label="Map overlay of Pecan population"
+	show-labels
+	stroke-width="0">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cabeza_de_Vaca_Portrait.jpg/640px-Cabeza_de_Vaca_Portrait.jpg"
+       coords="40.41876802132462, -3.690965698921055"
+       size="512, 328"
+       circle="true">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Guadalupe_river_Hunt_TX.jpg"
+       coords="29.439590464092426, -98.49740017110501"
+       size="512, 328"
+       circle="true">
+
+### Paolo's Map of Spanish exploration
+
+When 16th century explorers, such as Alvar Nunez Cabeza de Vaca, first came <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">from Spain to the American South</span> to see what the New World had to offer, they discovered the country's native nut around the Mississippi Valley and Gulf Coast Regions. By the time they arrived in Central Texas, they had discovered much of the native Pecan Tree population and recognized San Antonio as a particularly promising site for capitalistic ventures. Later, during the period of industrialization and factory processing of the Pecan, San Antonio would become a critical center of the labor rights movement of the United States, when thousands of Mexican American laborers would protest the Southern Pecan Shelling Company's decision to cut wages in what is now known as the <span data-mouseover-map-flyto="28.507321, -96.891096, 13 29.414579644080305, -98.51945869215106, 13">Pecan Shellers' Strike</span> of 1938.
 
 <param ve-map
        center="44.826771605406485, -32.95883474013582"
