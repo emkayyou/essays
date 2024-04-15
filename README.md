@@ -104,7 +104,7 @@ circle="true">
 ### MK's iFrame
 Here is a pecan cookbook.
 <param ve-iframe
-	src="https://www.google.com/books/edition/Pecans/nSzqCQAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover">
+	src="https://books.google.com/books?id=nSzqCQAAQBAJ&lpg=PP1&pg=PR9#v=onepage&q&f=false">
 
 ## Stef's Pecan Image
 
