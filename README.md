@@ -76,6 +76,17 @@ During the period of industrialization and factory processing of the Pecan, San 
        size="512, 328"
        circle="true">
 
+## Image practice
+
+this is just text to see if this image works.
+
+<param ve-image
+       label="Illustration from Michaux's North American Trees"
+       description="Illustration of the Pecan"
+       license="public domain"
+       url="file:///C:/Users/PaoloTaffaroSJ/Downloads/Reed,%20Pecan%20Culture%201916%20(1).pdf"
+       region="-701,229,3885,3750">
+
 ## Timeline Practice
 
 This is just practice to see how the timeline template works.
