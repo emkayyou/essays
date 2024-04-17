@@ -80,7 +80,10 @@ During the period of industrialization and factory processing of the Pecan, San 
 
 this is just text to see if this image works.
 
-<param ve-iframe src="file:///C:/Users/PaoloTaffaroSJ/Downloads/Reed,%20Pecan%20Culture%201916%20(1).pdf">
+<object data="file:///C:/Users/PaoloTaffaroSJ/Downloads/Reed,%20Pecan%20Culture%201916%20(1).pdf"
+	width="1000"
+ 	height="1000"
+  	type='application/pdf'></object>
 
 ## Timeline Practice
 
