@@ -83,7 +83,7 @@ this is just text to see if this image works.
 <object data="file:///C:/Users/PaoloTaffaroSJ/Downloads/Reed,%20Pecan%20Culture%201916%20(1).pdf"
 	width="1000"
  	height="1000"
-  	type='application/pdf'></object>
+  	type='application/pdf'>
 
 ## Timeline Practice
 
