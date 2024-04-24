@@ -3,7 +3,7 @@
 <param ve-config
        title="The Pecan: Cracked Shells and Grafted Wealth."
        author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Carya_illinoinensis_%28pecan_tree%29_1_%2824790682337%29.jpg/640px-Carya_illinoinensis_%28pecan_tree%29_1_%2824790682337%29.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Carya_illinoinensis_%28pecan_tree%29_2_%2839629039592%29.jpg/640px-Carya_illinoinensis_%28pecan_tree%29_2_%2839629039592%29.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
