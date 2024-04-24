@@ -3,7 +3,7 @@
 <param ve-config
        title="The Pecan: Cracked Shells and Grafted Wealth."
        author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pecan_pie_closeup%2C_November_2010.jpg/640px-Pecan_pie_closeup%2C_November_2010.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Carya_illinoinensis_%28pecan_tree%29_1_%2824790682337%29.jpg/640px-Carya_illinoinensis_%28pecan_tree%29_1_%2824790682337%29.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -15,7 +15,6 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 ## Pies and Pronunciations  
-
 This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the more <span data-mouseover-image-zoomto="391,2115,1874,1809">commonly known name</span>.
 <param ve-image
        label="Illustration from Michaux's North American Trees"
