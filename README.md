@@ -1,9 +1,9 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Pecan Narrative"
+       title="The Pecan: Cracked Shells and Grafted Wealth."
        author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pecan_pie%2C_November_2010.jpg/640px-Pecan_pie%2C_November_2010.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pecan_pie_closeup%2C_November_2010.jpg/640px-Pecan_pie_closeup%2C_November_2010.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -13,8 +13,6 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
-
-# The Pecan: Cracked Shells and Grafted Wealth.
 
 ## Pies and Pronunciations  
 
