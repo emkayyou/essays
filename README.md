@@ -14,9 +14,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Practice Pecan Images
+# The Pecan: Cracked Shells and Grafted Wealth.
 
-## Paolo's Pecan Image
+## Pies and Pronunciations  
 
 This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the more <span data-mouseover-image-zoomto="391,2115,1874,1809">commonly known name</span>.
 <param ve-image
@@ -25,6 +25,24 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
        region="-701,229,3885,3750">
+
+## Native American Discovery and Use
+
+## Early European Encounters
+
+## Reclaiming Enslaved Knowledge
+
+## Foraging vs. Cultivation
+
+## Pecan as Commodity 
+
+## Industrialization, Overproduction, and Resistance
+
+## Trade and Economic Growth 
+
+## Decreased Genetic Diversity
+
+## Wisdom of the Pecan 
 
 ### Paolo's Map of Spanish exploration
 
