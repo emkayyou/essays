@@ -37,7 +37,6 @@ license="CC0"
 fit="contain">
 
 ### Continued, am having issues with github recognizing seperate paragraph
-
 But how exactly did the landowners turn this newfound knowledge into a profitable business? Primarily, companies like The Oak Ridge Pecan Company turned the nut into a commodity by sending out brochures to individuals or other landowners asking them to “invest” in their pecan groves by proposing why theirs will yield the most profit for the investor. These brochures from various pecan companies all follow a similar layout, which first describe the pecan and its use in the business and personal sphere, followed by a proposition of the land being sold and its price. Companies weren’t the only ones profiting off of the pecan, however, as individuals were also selling their pecan-growing knowledge and abilities to the public. Particularly, and as is the case with pecan grower C.A. Yancey, individuals will both sell the pecan trees that they have grown to others and will travel to someone’s land and grow the tree for them. The brochures and catalogs of the latter are quite interesting, in that they find the individual trying to persuade the landowner to invest in their pecan-growing abilities alone, advocating as to why they are so good at what they do. Typical of this persuasion are testimonials at the end of the brochures, which act as an additional push to convince the pecan-grower’s audience that they are truly the best. These brochures are significant because they mark the beginning of the commercialization of the pecan tree and its fruit, as landowners are either advertising and selling pecan trees and plots, or are selling their pecan-growing expertise to the general public, all for profit.
 
 <param ve-iframe src="https://archive.org/embed/CAT31290349&output=embed">
@@ -49,6 +48,19 @@ But how exactly did the landowners turn this newfound knowledge into a profitabl
 ### Decreased Genetic Diversity
 
 ### Wisdom of the Pecan 
+The history and resilience of the pecan marks it as a warrior, one able to withstand both natural and human external forces. However, the strength of the pecan is not something that we should just sit back and marvel at. Rather, in the spirit of Indigenous tradition, there are many lessons that humans can take from this wise nut. Potowatami botanist and author Robin Wall Kimmerer has written much about the pecan and its cultural significance for her tribe, a significance that yields teachable moments for all. First, there is the lesson of harmony and reciprocity between humans and nature, those of which cannot properly flourish among methods of commodification, commercialization, and the mass-production of pecans. The Potowatami people used to live among the pecans as if they were one and the same, stepping over them on the ground and filling their pockets with them for journeys, using them as needed and giving back to them by preserving the land they grow on. Now, with the overproduction and mass-production of the nut, this relationship has lost its reciprocity and has become one-sided: a take-take, and not a take-give. The lack of harmony here caused by overproduction, which is telling for more than just the pecan, creates an imbalance that proves lethal for the environment and ecosystem that will persist until eventually there is nothing left to take from. The solution here, then, is rooted in the indigenous knowledge surrounding the pecan to help recreate a reciprocity and harmony in nature. Just because the pecan is a strong and resilient warrior, does not mean that we should take from it until there is nothing left.
+
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pecan-nuts-on-tree.jpg/640px-Pecan-nuts-on-tree.jpg"
+       label="Pecan Nuts on Trees"
+       description="Photograph of ripe pecan nuts on a tree"
+       license="CC0">
+
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/640px-Carya_illinoinensis.jpg"
+       label="Pecan Tree Carya illinoinensis, 68-year-old tree from seed. Morton Arboretum"
+       description="Photograph of pecan tree"
+       license="CC BY-SA 3.0">
 
 ### Paolo's Map of Spanish exploration
 
