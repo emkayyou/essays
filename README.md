@@ -33,6 +33,9 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
 
 ## Pecan as Commodity 
 The shift from foraged to cultivated following the invention of pecan grafting saw a change in attitude toward the pecan nut. Particularly, between the 19th and 20th centuries, the propagation of the pecan transformed it from a native nut to a commercialized commodity. The knowledge of, and ability to, graft pecans allowed southern landowners to transform it into a business venture— one that became steadily popularized as others realized how easy and profitable it was to grow the versatile and resilient nut. The popularization of this lucrative business opportunity is apparent in the numerous pamphlets and guides circulated to the public from landowners, all of which educate the reader, a beginner-grower, on how to both grow and tend to a pecan grove, and how to ensure success from it. Specifically, these guides educate the reader on when and where they should grow their pecan groves, what tools they need to use, how to fight off insects and diseases, and more tips to assure proper growth. The opportunity presented by the resilience of the pecan itself, along with the universality of its growing requirements aided by the invention of pecan grafting, led to the commodification of the pecan as a money making crop and business opportunity.
+
+<param ve-iframe src="https://www.biodiversitylibrary.org/item/224508#page/3/mode/1up&output=embed">
+	
 ## Industrialization, Overproduction, and Resistance
 
 ## Trade and Economic Growth 
