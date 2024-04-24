@@ -60,7 +60,8 @@ The history and resilience of the pecan marks it as a warrior, one able to withs
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/640px-Carya_illinoinensis.jpg"
        label="Pecan Tree Carya illinoinensis, 68-year-old tree from seed. Morton Arboretum"
        description="Photograph of pecan tree"
-       license="CC BY-SA 3.0">
+       license="CC BY-SA 3.0"
+	region="-124,10,889,831">
 
 ### Paolo's Map of Spanish exploration
 
