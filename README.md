@@ -34,6 +34,7 @@ description="contained pecan farm in Louisiana, 1917-1964"
 license="CC0"
 fit="contain">
 
+<param ve-iframe src="https://www.biodiversitylibrary.org/page/55769893&output=embed">
 	
 ### Industrialization, Overproduction, and Resistance
 
