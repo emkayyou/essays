@@ -20,6 +20,37 @@
 
 ### Early European Encounters
 
+In 1533, Spanish explorers became the first Europeans to come into contact with the pecan of North America. Alvar Nuñez Cabeza de Vaca, one of the leading explorers, recounts his travels through the area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, they found a stretch of land on which the fruit of the pecan tree was so numerous that they named it “the river of nuts.” Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family Juglandaceae, Europeans did not, at first, see a reason to cultivate a nut they thought they already enjoyed back home. Moreover, the European association of the pecan with Native Americans may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it wasn’t until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marset, learned from the Native Americans of Illinois that it was distinct from the walnut: “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
+
+<param ve-map
+       center="44.826771605406485, -32.95883474013582"
+       zoom="2"
+       Title="American South"
+       prefer-geojson>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
+	label="Map overlay of Pecan population"
+	show-labels
+	stroke-width="0">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cabeza_de_Vaca_Portrait.jpg/640px-Cabeza_de_Vaca_Portrait.jpg"
+       coords="40.41876802132462, -3.690965698921055"
+       size="512, 328"
+       circle="true">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Guadalupe_river_Hunt_TX.jpg"
+       coords="28.507321, -96.891096"
+       size="512, 328"
+       circle="true">
+
+Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic discrimination, it does not mean there was no interest at all. Andre Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.” Not only does he affirm the nut’s good qualities, but he also asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.” Distinct from the customs of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation and crop farming of new pecan varieties through the technique of grafting. Grafting involves combining the stem, or scion, of one tree with the base, or rootstock, of another tree in order to generate a new tree variety. Successful grafting of the pecan tree, then, meant the creation of pecan varieties which would grow stronger faster, fruit more frequently and abundantly, and produce more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than recognition of a good source of food. Instead, the European impulse to cultivate and perfect the promising nut of the New World marks a definitive shift in the relationship between humans and the pecan.
+
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/pageImage/52292046"
+       label="Pecan Illustration"
+       description="Michaux's book on Trees of North America"
+       license="CC0">
+
 ### Reclaiming Enslaved Knowledge
 
 ### Foraging vs. Cultivation
