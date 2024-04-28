@@ -59,7 +59,8 @@ Grafting the pecan was apparently more difficult than Michaux would have hoped. 
 	url="https://cgru.usda.gov/CARYA/PECANS/01/cent-tr02.jpg"
 	label="Antoine's Pecan Tree"
 	description="Photo of one of Antoine's trees"
-	license="CC0">
+	license="CC0"
+	region="-102,16,732,697">
 
 The records from Oak Alley Plantation indicate that Antoine was valued at $1000, and, even though the sales records reveal that the fruit of his new variety was worth $50-75 a barrel, he “received no glory or pay for his botanical feat.” continue biographical portion of Antoine; waiting on source material from library.
 <param ve-image
