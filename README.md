@@ -18,7 +18,7 @@
 
 ### Native American Discovery and Use
 
-### Early European Encounters
+## Early European Encounters
 
 In 1533, Spanish explorers became the first Europeans to come into contact with the pecan of <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">North America</span>. Alvar Nuñez Cabeza de Vaca, one of the leading explorers, recounts his travels through the area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, they found a stretch of land on which the fruit of the pecan tree was so numerous that they named it <span data-mouseover-map-flyto="28.507321, -96.891096, 13">"the river of nuts."</span> Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family Juglandaceae, Europeans did not, at first, see a reason to cultivate a nut they thought they already enjoyed back home. Moreover, the European association of the pecan with Native Americans may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it wasn’t until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marset, learned from the Native Americans of Illinois that it was distinct from the walnut: “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
 
