@@ -55,16 +55,11 @@ Distinct from the customs of foraging and planting nuts from wild pecan varietie
 ### Reclaiming Enslaved Knowledge
 
 Grafting the pecan was apparently more difficult than Michaux would have hoped. It wasn’t until 1822 in South Carolina when Abner Landrum, a potter by trade, successfully grafted the pecan tree. But Landrum’s success did not come to fruition. His new trees died before producing nuts and the practice of grafting proved to be difficult for farmers and gardeners alike. One landowner in St. James Parish, Louisiana, Dr. A. E. Colomb, “cut scions (buds and stems) from a particularly impressive pecan tree” and attempted to graft them onto smaller ones. However, they did not survive. So, hoping someone else might succeed, he gave some of his leftover scions to the owner of <span data-mouseover-map-flyto="30.00449, -90.77604, 16">Oak Alley Plantation</span>, Telesphore J. Roman. It was on this Louisiana plantation along the Mississippi River in 1846-47 that Antoine, an enslaved African American man and a “gardener and expert grafter of Pecan Trees,” became the first person to cultivate an improved pecan variety. After Antoine successfully grafted and cultivated 16 trees of his new variety, Roman had him graft another 110 trees. This he also successfully accomplished, demonstrating both the viability of pecan grafting and the possibility of large scale cultivation of the pecan.
-<param ve-map
-	center="30.00449, -90.77604"
-	zoom="6"
-	Title="Oak Alley Plantation"
-	show-labels>
-<param ve-map-marker
-	url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Oak_alley_-_view_from_front.jpg?20120903075509"
-	coords="30.00449, -90.77604"
-	size="800, 571" 
-	circle="true">
+<param ve-image
+	url="https://cgru.usda.gov/CARYA/PECANS/01/cent-tr02.jpg"
+	label="Antoine's Pecan Tree"
+	description="Photo of one of Antoine's trees"
+	license="CC0">
 
 The records from Oak Alley Plantation indicate that Antoine was valued at $1000, and, even though the sales records reveal that the fruit of his new variety was worth $50-75 a barrel, he “received no glory or pay for his botanical feat.” continue biographical portion of Antoine; waiting on source material from library.
 <param ve-image
