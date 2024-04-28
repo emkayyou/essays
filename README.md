@@ -99,21 +99,21 @@ Unsurprisingly, the ongoing successful cultivation of improved pecan varieties e
        url="https://tile.loc.gov/storage-services/service/pnp/fsa/8b21000/8b21300/8b21319r.jpg"
        label="Women Working in Pecan Factory"
        description="Photo by Russell Lee, photographer for FSA"
-       license="CC0">
+       license="Public Domain">
 
 In response to this abhorrent injustice, the laborers, led by a woman named [Emma Tenayuca,](https://en.wikipedia.org/wiki/Emma_Tenayuca) initiated the Pecan Shellers’ Strike of 1938, a three-month protest that gained international coverage. The strike eventually led to the federal government enacting the [Fair Labor Relations Act,](https://en.wikipedia.org/wiki/Fair_Labor_Standards_Act_of_1938) which resulted in pecan factory workers earning double or even triple what they did before. The tragic irony, however, was that the new law also motivated companies to reduce the number of laborers and invest in pecan shelling machinery. The law enacted to protect laborers resulted in the permanent loss of 10,000 jobs in pecan factories over the next 10 years, and the Pecan Workers Union #172, which led the shellers’ strike, was officially disbanded in 1948. Despite leading the charge in labor rights, the laborers of pecan factories became “the only major group of workers displaced as a direct result” of the Fair Labor Relations Act.
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/en/2/2f/Emma_Tenayuca.jpg"
-       label="Emma Tenayuca"
+       url="https://www.peoplesworld.org/wp-content/uploads/2008/03/EmmaT960x540.jpg"
+       label="Emma Tenayuca Leading Fellow Workers"
        description="Labor Activist"
-       license="CC0">
+       license="Fair Use">
 
 The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency in a period of industrialization characterized by the greed of businessmen and decreased biodiversity. The wild pecan had officially become a domesticated crop, and the Pecan was seen as a tree which exists “to serve not nature’s economy but the human economy.” Even though this period of immense productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. As time went on, the environmental hazards were not always sufficiently heeded, and the narrowing gene pool and reduced naturally occurring varieties of the pecan posed significant challenges for farmers, the USDA, and the pecan itself.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
        label="USDA Experimental Pecan Farm"
        description="Industrialization of Pecan"
-       license="CC0">
+       license="Public Domain">
 
 ### Trade and Economic Growth 
 
