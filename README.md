@@ -78,8 +78,6 @@ Despite its budding success and the initial fruit of Antoine’s craft, grafting
 	description="Photo of one of Antoine's trees before it died"
 	license="CC0">
 
-### Foraging vs. Cultivation
-
 ### Pecan as Commodity 
 The shift from foraged to cultivated following the invention of pecan grafting saw a change in attitude toward the pecan nut. Particularly, between the 19th and 20th centuries, the propagation of the pecan transformed it from a native nut to a commercialized commodity. The knowledge of, and ability to, graft pecans allowed southern landowners to transform it into a business venture— one that became steadily popularized as others realized how easy and profitable it was to grow the versatile and resilient nut. The popularization of this lucrative business opportunity is apparent in the numerous pamphlets and guides circulated to the public from landowners, all of which educate the reader, a beginner-grower, on how to both grow and tend to a pecan grove, and how to ensure success from it. Specifically, these guides educate the reader on when and where they should grow their pecan groves, what tools they need to use, how to fight off insects and diseases, and more tips to assure proper growth. The opportunity presented by the resilience of the pecan itself, along with the universality of its growing requirements aided by the invention of pecan grafting, led to the commodification of the pecan as a money making crop and business opportunity.
 <param ve-iframe src="https://archive.org/embed/CAT31332999&output=embed">
@@ -94,6 +92,23 @@ But how exactly did the landowners turn this newfound knowledge into a profitabl
 <param ve-iframe src="https://archive.org/embed/CAT31290349&output=embed">
 
 ### Industrialization, Overproduction, and Resistance
+
+The increased popularity of the pecan, as well as the successful cultivation of improved varieties, led to a major boom in pecan trees on orchard land.  Between the years 1900 and 1925, the number of orchard pecan trees in the U.S. went up from 567,000 to 8,733,000, exhibiting the greatest increase in the pecan’s history. A crucial player in this new industry was the U.S. Department of Agriculture. Since farmers tended to focus their planting on just a few of the most fruitful and delicious varieties, the pecan lost a crucial benefit of genetic diversity: the ability to fight off hungry insects. Thus, the USDA’s development of insecticides helped the pecan overcome the threat of unwelcome pests and gained the confidence of farmers who benefitted from the organization’s chemical creativity. Thus, the resilience of the pecan tree in overcoming the challenges of cultivation and commercialization allowed for astronomical increase in pecan production. However, this abundant increase did not cultivate wealth for all.
+<param ve-iframe src="https://books.google.com/books?id=fY9u_sgAJm8C&newbks=0&dq=inpublisher%3A%22U.S.%20Department%20of%20Agriculture%22%20pecan&pg=PA4-IA1&output=embed">
+
+Unsurprisingly, the ongoing successful cultivation of improved pecan varieties established the pecan as a money making venture. In San Antonio, for example, Julius Seligmann’s Southern Pecan Shelling Company had taken off as a highly lucrative business, accounting for more than three quarters of the nation’s unshelled pecan purchases. But since mechanical advancement did not follow as quickly as pecan growth, Seligmann’s factories still relied on laborers to shell them by hand. His dependance on laborers to shell pecans was not a problem until the country was hit by the Great Depression. Selfishly, Seligmann attempted to maintain his own income by taking advantage of the Mexican American working class. By 1938, Seligmann had cut wages by 20%, reducing weekly earnings to about $2 per week ($60 today) while gaining for himself a net income of $500,000 ($15 million today). In response to this abhorrent injustice, the laborers, led by a woman named Emma Tenayuca, initiated the Pecan Shellers’ Strike of 1938, a three-month protest that gained international coverage. The strike eventually led to the federal government enacting the Fair Labor Relations Act, which resulted in pecan factory workers earning double or even triple what they did before. The tragic irony, however, was that the new law also motivated companies to reduce the number of laborers and invest in pecan shelling machinery. The law enacted to protect laborers resulted in the permanent loss of 10,000 jobs in pecan factories over the next 10 years, and the Pecan Workers Union #172, which led the shellers’ strike, was officially disbanded in 1948. Despite leading the charge in labor rights, the laborers of pecan factories became “the only major group of workers displaced as a direct result” of the Fair Labor Relations Act.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Emmamarriage_%28cropped%29.jpg"
+       label="Emma Tenayuca"
+       description="From her Wedding"
+       license="CC0">
+
+The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency in a period of industrialization characterized by the greed of businessmen and decreased biodiversity. The wild pecan had officially become a domesticated crop, and the Pecan was seen as a tree which exists “to serve not nature’s economy but the human economy.” Even though this period of immense productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. As time went on, the environmental hazards were not always sufficiently heeded, and the narrowing gene pool and reduced naturally occurring varieties of the Pecan posed significant challenges for farmers, the USDA, and the pecan itself.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
+       label="USDA Experimental Pecan Farm"
+       description="Industrialization of Pecan"
+       license="CC0">
 
 ### Trade and Economic Growth 
 
