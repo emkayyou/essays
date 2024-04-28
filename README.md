@@ -64,7 +64,7 @@ Grafting the pecan was apparently more difficult than Michaux would have hoped. 
 	size="800, 571" 
 	circle="true">
 
-The records from Oak Alley Plantation indicate that Antoine was valued at $1000, and, even though the sales records reveal that the fruit of his new variety was worth $50-75 a barrel, he “received no glory or pay for his botanical feat.” continue biographical portion of Antoine; waiting on source material from library
+The records from Oak Alley Plantation indicate that Antoine was valued at $1000, and, even though the sales records reveal that the fruit of his new variety was worth $50-75 a barrel, he “received no glory or pay for his botanical feat.” continue biographical portion of Antoine; waiting on source material from library.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/4/48/St._James_Parish_-_Oak_Alley_Plantation_-_20220730133217.jpg"
 	label="Slave Quarters at Oak Alley"
