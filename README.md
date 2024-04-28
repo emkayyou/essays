@@ -65,18 +65,18 @@ Grafting the pecan was apparently more difficult than Michaux would have hoped. 
 	circle="true">
 
 The records from Oak Alley Plantation indicate that Antoine was valued at $1000, and, even though the sales records reveal that the fruit of his new variety was worth $50-75 a barrel, he “received no glory or pay for his botanical feat.” continue biographical portion of Antoine; waiting on source material from library.
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/48/St._James_Parish_-_Oak_Alley_Plantation_-_20220730133217.jpg"
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/4/48/St._James_Parish_-_Oak_Alley_Plantation_-_20220730133217.jpg"
 	label="Slave Quarters at Oak Alley"
-       description="Photo of the Living Quaters at Oak Alley Plantation"
-       license="CC0">
+	description="Photo of the Living Quaters at Oak Alley Plantation"
+	license="CC0">
 
 Despite its budding success and the initial fruit of Antoine’s craft, grafting was not the only challenge for the new pecan tree. The threat of the Civil War, instability in plantation ownership, and financial difficulties resulted in the clearing of 110 of the 126 grafted trees. Antoine’s pecan variety was nearly cut down and forgotten. However, Antoine’s pecan variety managed not only to survive, but gain national recognition for its superior quality. Following Roman’s sale of Oak Alley, a new owner named Humbert Bonzano was so impressed by the quality of Antoine’s original 16 pecan trees that he decided “to exhibit Antoine’s improved Pecans at the Centennial Exposition, held in observance of the nation’s hundredth birthday, in Philadelphia.” The judges who observed and tasted the pecans wrote that they were noteworthy for their “remarkably large size, tenderness of shell, and very special excellence.” Rewarded with such a high review, Antoine’s pecan variety took its official name from the event and became known as the “Centennial.” Unfortunately, due to a combination of farming errors and post-war financial difficulties, Antoine’s original trees did not survive beyond the year 1902. Nevertheless, his success in grafting the first improved pecan variety formed a foundation for the ongoing cultivation of the commercialized pecan.
-<param ve-image 
-       url="https://cgru.usda.gov/CARYA/PECANS/01/cent-tr41.jpg"
+<param ve-image
+	url="https://cgru.usda.gov/CARYA/PECANS/01/cent-tr41.jpg"
 	label="One of Antoine's Pecan Trees"
-       description="Photo of one of Antoine's trees before it died"
-       license="CC0">
+	description="Photo of one of Antoine's trees before it died"
+	license="CC0">
 
 ### Foraging vs. Cultivation
 
