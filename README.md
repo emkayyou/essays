@@ -101,7 +101,8 @@ Unsurprisingly, the ongoing successful cultivation of improved pecan varieties e
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Emmamarriage_%28cropped%29.jpg"
        label="Emma Tenayuca"
        description="From her Wedding"
-       license="CC0">
+       license="CC0"
+	region="-66,14,332,316">
 
 The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency in a period of industrialization characterized by the greed of businessmen and decreased biodiversity. The wild pecan had officially become a domesticated crop, and the Pecan was seen as a tree which exists “to serve not nature’s economy but the human economy.” Even though this period of immense productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. As time went on, the environmental hazards were not always sufficiently heeded, and the narrowing gene pool and reduced naturally occurring varieties of the Pecan posed significant challenges for farmers, the USDA, and the pecan itself.
 <param ve-image
