@@ -26,11 +26,6 @@ In 1533, Spanish explorers became the first Europeans to come into contact with 
        zoom="2"
        Title="American South"
        prefer-geojson>
-<param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/emkayyou/essays/main/geojson%20San%20Antonio"
-	label="Map overlay of Pecan population"
-	show-labels
-	stroke-width="0">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cabeza_de_Vaca_Portrait.jpg/640px-Cabeza_de_Vaca_Portrait.jpg"
        coords="40.41876802132462, -3.690965698921055"
@@ -42,14 +37,21 @@ In 1533, Spanish explorers became the first Europeans to come into contact with 
        size="512, 328"
        circle="true">
 
-Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic discrimination, it does not mean there was no interest at all. Andre Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.” Not only does he affirm the nut’s good qualities, but he also asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.” Distinct from the customs of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation and crop farming of new pecan varieties through the technique of grafting. Grafting involves combining the stem, or scion, of one tree with the base, or rootstock, of another tree in order to generate a new tree variety. Successful grafting of the pecan tree, then, meant the creation of pecan varieties which would grow stronger faster, fruit more frequently and abundantly, and produce more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than recognition of a good source of food. Instead, the European impulse to cultivate and perfect the promising nut of the New World marks a definitive shift in the relationship between humans and the pecan.
-<param ve-image 
+Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic discrimination, it does not mean there was no interest at all. Andre Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.” Not only does he affirm the nut’s good qualities, but he also asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.”
+<param ve-image
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
-       label="Pecan Illustration from Michaux"
+       label="Pecan Illustration from Michaux's Work"
        description="Michaux's book on Trees of North America"
        license="CC0"
 	region="-827,7,4137,3936">
 
+Distinct from the customs of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation and crop farming of new pecan varieties through the technique of grafting. Grafting involves combining the stem, or scion, of one tree with the base, or rootstock, of another tree in order to generate a new tree variety. Successful grafting of the pecan tree, then, meant the creation of pecan varieties which would grow stronger faster, fruit more frequently and abundantly, and produce more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than recognition of a good source of food. Instead, the European impulse to cultivate and perfect the promising nut of the New World marks a definitive shift in the relationship between humans and the pecan.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Cherry_tree_grafting_3.jpg"
+       label="Tree Grafting"
+       description="Cleft Grafting with two young trees"
+       license="CC0">
+       
 ### Reclaiming Enslaved Knowledge
 
 Grafting the pecan was apparently more difficult than Michaux would have hoped. It wasn’t until 1822 in South Carolina when Abner Landrum, a potter by trade, successfully grafted the pecan tree. But Landrum’s success did not come to fruition. His new trees died before producing nuts and the practice of grafting proved to be difficult for farmers and gardeners alike. One landowner in St. James Parish, Louisiana, Dr. A. E. Colomb, “cut scions (buds and stems) from a particularly impressive pecan tree” and attempted to graft them onto smaller ones. However, they did not survive. So, hoping someone else might succeed, he gave some of his leftover scions to the owner of <span data-mouseover-map-flyto="30.00449, -90.77604, 16">Oak Alley Plantation</span>, Telesphore J. Roman. It was on this Louisiana plantation along the Mississippi River in 1846-47 that Antoine, an enslaved African American man and a “gardener and expert grafter of Pecan Trees,” became the first person to cultivate an improved pecan variety. After Antoine successfully grafted and cultivated 16 trees of his new variety, Roman had him graft another 110 trees. This he also successfully accomplished, demonstrating both the viability of pecan grafting and the possibility of large scale cultivation of the pecan.
@@ -74,8 +76,8 @@ The records from Oak Alley Plantation indicate that Antoine was valued at $1000,
 Despite its budding success and the initial fruit of Antoine’s craft, grafting was not the only challenge for the new pecan tree. The threat of the Civil War, instability in plantation ownership, and financial difficulties resulted in the clearing of 110 of the 126 grafted trees. Antoine’s pecan variety was nearly cut down and forgotten. However, Antoine’s pecan variety managed not only to survive, but gain national recognition for its superior quality. Following Roman’s sale of Oak Alley, a new owner named Humbert Bonzano was so impressed by the quality of Antoine’s original 16 pecan trees that he decided “to exhibit Antoine’s improved Pecans at the Centennial Exposition, held in observance of the nation’s hundredth birthday, in Philadelphia.” The judges who observed and tasted the pecans wrote that they were noteworthy for their “remarkably large size, tenderness of shell, and very special excellence.” Rewarded with such a high review, Antoine’s pecan variety took its official name from the event and became known as the “Centennial.” Unfortunately, due to a combination of farming errors and post-war financial difficulties, Antoine’s original trees did not survive beyond the year 1902. Nevertheless, his success in grafting the first improved pecan variety formed a foundation for the ongoing cultivation of the commercialized pecan.
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Centennial_Exhibition%2C_Opening_Day.jpg/1600px-Centennial_Exhibition%2C_Opening_Day.jpg?20130904002231"
-	label="One of Antoine's Pecan Trees"
-	description="Photo of one of Antoine's trees before it died"
+	label="Centennial Exposition in Philadelphia, 1876"
+	description="Illustration of Centennial Exposition"
 	license="CC0">
 
 ### Pecan as Commodity 
