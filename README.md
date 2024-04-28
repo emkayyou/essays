@@ -124,7 +124,12 @@ The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency i
 
 ### Wisdom of the Pecan 
 (paragraph 2) To that end, Kimmerer has offered an antidote for the shakiness of the future in her phrase, “All Flourishing is Mutual” from her chapter “The Council of Pecans” in Braiding Sweetgrass. Here, Kimmerer illustrates that harmony can only be achieved if there is a reciprocal and cooperative relationship between all living beings: “If one tree fruits, they all fruit— there are no soloists. Not one tree in a grove, but the whole grove; not one grove in the forest, but every grove; all across the country and all across the state. The trees act not as individuals, but somehow as a collective. Exactly how they do this, we don’t yet know. But what we see is the power of unity. What happens to one happens to us all. We can starve together or feast together. All flourishing is mutual."
-
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/640px-Carya_illinoinensis.jpg"
+       label="Pecan Tree Carya illinoinensis, 68-year-old tree from seed. Morton Arboretum"
+       description="Photograph of pecan tree"
+       license="CC BY-SA 3.0"
+	region="-124,10,889,831">
 This brief excerpt from Kimmerer speaks grand volumes to the importance of unity and the ways that what happens to one, happens to all. Kimmer’s wisdom here can be applied in a few different ways. First, within pecans themselves, the synchronous flourishing demonstrated in their mast-fruiting patterns illustrates a communicative harmony entrenched within their social DNA. Second, within the relationship between humans and pecans— and all nature we share a relationship with, really—, is the simple fact that if humans do not start respecting, protecting, and nurturing the pecan, that it will ultimately cease to provide its gifts for us; and we would be to blame. Lastly, Kimmer’s wisdom here can act as a metaphor for human interpersonal relationships. That is, if we cannot live in harmony and with a mutual understanding of one another, then our flourishing is out of the question. Whatever the case may be, though, Kimmer’s wisdom and the story of the pecan and its resilience proves itself to be an indispensable, invaluable lesson for our life today, that of which becomes more relevant if we want to see our life tomorrow. As is the case with the delicious pecan pie, the sweeter things in life can only exist and be enjoyed when we come together as one. (I feel like that sounds really silly).
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Pecan_Pie%3F.jpg"
