@@ -96,7 +96,7 @@ The increased popularity of the pecan, as well as the successful cultivation of 
 
 Unsurprisingly, the ongoing successful cultivation of improved pecan varieties established the pecan as a money making venture. In San Antonio, for example, Julius Seligmann’s Southern Pecan Shelling Company had taken off as a highly lucrative business, accounting for more than three quarters of the nation’s unshelled pecan purchases. But since mechanical advancement did not follow as quickly as pecan growth, Seligmann’s factories still relied on laborers to shell them by hand. His dependance on laborers to shell pecans was not a problem until the country was hit by the Great Depression. Selfishly, Seligmann attempted to maintain his own income by taking advantage of the Mexican American working class. By 1938, Seligmann had cut wages by 20%, reducing weekly earnings to about $2 per week ($60 today) while gaining for himself a net income of $500,000 ($15 million today).
 <param ve-image
-       url="https://tile.loc.gov/storage-services/service/pnp/fsa/8b21000/8b21300/8b21335r.jpg"
+       url="https://tile.loc.gov/storage-services/service/pnp/fsa/8b21000/8b21300/8b21319r.jpg"
        label="Women Working in Pecan Factory"
        description="Photo by Russell Lee, photographer for FSA"
        license="CC0">
