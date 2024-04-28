@@ -21,7 +21,6 @@
 ### Early European Encounters
 
 In 1533, Spanish explorers became the first Europeans to come into contact with the pecan of <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">North America</span>. Alvar Nuñez Cabeza de Vaca, one of the leading explorers, recounts his travels through the area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, they found a stretch of land on which the fruit of the pecan tree was so numerous that they named it <span data-mouseover-map-flyto="28.507321, -96.891096, 13">"the river of nuts."</span> Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family Juglandaceae, Europeans did not, at first, see a reason to cultivate a nut they thought they already enjoyed back home. Moreover, the European association of the pecan with Native Americans may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it wasn’t until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marset, learned from the Native Americans of Illinois that it was distinct from the walnut: “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
-
 <param ve-map
        center="44.826771605406485, -32.95883474013582"
        zoom="2"
@@ -44,7 +43,6 @@ In 1533, Spanish explorers became the first Europeans to come into contact with 
        circle="true">
 
 Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic discrimination, it does not mean there was no interest at all. Andre Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.” Not only does he affirm the nut’s good qualities, but he also asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.” Distinct from the customs of foraging and planting nuts from wild pecan varieties, Michaux was proposing the active cultivation and crop farming of new pecan varieties through the technique of grafting. Grafting involves combining the stem, or scion, of one tree with the base, or rootstock, of another tree in order to generate a new tree variety. Successful grafting of the pecan tree, then, meant the creation of pecan varieties which would grow stronger faster, fruit more frequently and abundantly, and produce more delicious nuts. Michaux’s prophetic opinion reveals how the shift in the European relationship to the pecan was marked by more than recognition of a good source of food. Instead, the European impulse to cultivate and perfect the promising nut of the New World marks a definitive shift in the relationship between humans and the pecan.
-
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
        label="Pecan Illustration from Michaux"
@@ -84,9 +82,7 @@ Despite its budding success and the initial fruit of Antoine’s craft, grafting
 
 ### Pecan as Commodity 
 The shift from foraged to cultivated following the invention of pecan grafting saw a change in attitude toward the pecan nut. Particularly, between the 19th and 20th centuries, the propagation of the pecan transformed it from a native nut to a commercialized commodity. The knowledge of, and ability to, graft pecans allowed southern landowners to transform it into a business venture— one that became steadily popularized as others realized how easy and profitable it was to grow the versatile and resilient nut. The popularization of this lucrative business opportunity is apparent in the numerous pamphlets and guides circulated to the public from landowners, all of which educate the reader, a beginner-grower, on how to both grow and tend to a pecan grove, and how to ensure success from it. Specifically, these guides educate the reader on when and where they should grow their pecan groves, what tools they need to use, how to fight off insects and diseases, and more tips to assure proper growth. The opportunity presented by the resilience of the pecan itself, along with the universality of its growing requirements aided by the invention of pecan grafting, led to the commodification of the pecan as a money making crop and business opportunity.
-
 <param ve-iframe src="https://archive.org/embed/CAT31332999&output=embed">
-
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
 label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm" 
@@ -94,9 +90,7 @@ description="contained pecan farm in Louisiana, 1917-1964"
 license="CC0"
 fit="contain">
 
-### Continued, am having issues with github recognizing seperate paragraph
 But how exactly did the landowners turn this newfound knowledge into a profitable business? Primarily, companies like The Oak Ridge Pecan Company turned the nut into a commodity by sending out brochures to individuals or other landowners asking them to “invest” in their pecan groves by proposing why theirs will yield the most profit for the investor. These brochures from various pecan companies all follow a similar layout, which first describe the pecan and its use in the business and personal sphere, followed by a proposition of the land being sold and its price. Companies weren’t the only ones profiting off of the pecan, however, as individuals were also selling their pecan-growing knowledge and abilities to the public. Particularly, and as is the case with pecan grower C.A. Yancey, individuals will both sell the pecan trees that they have grown to others and will travel to someone’s land and grow the tree for them. The brochures and catalogs of the latter are quite interesting, in that they find the individual trying to persuade the landowner to invest in their pecan-growing abilities alone, advocating as to why they are so good at what they do. Typical of this persuasion are testimonials at the end of the brochures, which act as an additional push to convince the pecan-grower’s audience that they are truly the best. These brochures are significant because they mark the beginning of the commercialization of the pecan tree and its fruit, as landowners are either advertising and selling pecan trees and plots, or are selling their pecan-growing expertise to the general public, all for profit.
-
 <param ve-iframe src="https://archive.org/embed/CAT31290349&output=embed">
 
 ### Industrialization, Overproduction, and Resistance
