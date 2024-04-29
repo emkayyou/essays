@@ -127,7 +127,39 @@ The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency i
        license="Public Domain">
 
 ### Trade and Economic Growth
-The over-abundance of pecans in the 1990s meant that the nut became a huge trading opportunity for the United States with other countries, especially China. However, the United States needed help finding consumers for the pecan, since during this time, pecans weren’t as desired in America. It wasn’t until 2006 that Chinese consumers tasted an American pecan and decided they wanted the pecan, but the Chinese consumers preferred the taste of cultivated nuts over native nuts. In 2008, following a walnut shortage, the Chinese purchased 53 million pounds of pecans. The demand for pecans in China allowed American growers to sell their abundant pecan yield. Today, China is one of America’s top pecan buyers, however, this is starting to change as China is starting its own pecan orchards and as Mexico is starting to dominate the global pecan market.
+
+The over-abundance of pecans in the 1990s meant that the nut became a huge trading opportunity for the United States with other countries, especially China. However, the United States needed help finding consumers for the pecan, since during this time, pecans weren’t as desired in America. It wasn’t until 2006 that Chinese consumers tasted an American pecan and decided they wanted the pecan, but the Chinese consumers preferred the taste of cultivated nuts over native nuts. In 2008, following a walnut shortage, the Chinese purchased 53 million pounds of pecans. Most exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, then shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China. The demand for pecans in China allowed American growers to sell their abundant pecan yield. Today, China is one of America’s top pecan buyers, however, this is starting to change as China is starting its own pecan orchards and as Mexico is starting to dominate the global pecan market.
+<param ve-map
+	center="22.3526, 114.1603"
+ 	zoom="2"
+  	Title="Pecan Trade Route from US to China"
+   	show-labels>
+<param ve-map
+	center="31.241, -98.723"
+ 	zoom="5"
+  	Title="East Texas"
+   	show-labels>
+<param ve-map
+	center="32.708, -83.178"
+ 	zoom="5"
+  	Title="Georgia"
+   	show-labels>
+<param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/5/51/CPO_China%2C_IMO_9434204_at_the_Botlek%2C_Port_of_Rotterdam%2C_pic1.JPG"
+	coords="22.28579, 114.16417"
+	size="512, 328"
+	circle="true">
+ <param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/c/cf/20111012-NRCS-JMV-0002_-_Flickr_-_USDAgov.jpg"
+	coords="29.018, -98.685"
+	size="512, 328"
+	circle="true">
+  <param ve-map-marker
+	url="https://upload.wikimedia.org/wikipedia/commons/a/af/20100329-NRCS-JMV-0003_-_Flickr_-_USDAgov.jpg"
+	coords="31.8402, -83.6224"
+	size="512, 328"
+	circle="true">
+
 
 Cultivation of the pecan tree in China and Mexico is driving away the demand from American pecan growers. Since 2005, Mexico has claimed the top spot in exporting pecans. Mexico produces 50% of the global pecan output while America’s is 40%. Due to climate stability and lower labor costs, Mexico’s pecan production is at an all-time high. Mexico has significantly challenged United States markets due to its extensive acreage of pecan tree orchards. However, pecan markets in the United States still are in high demand. The United States market is currently valued at USD 230.4 million from pecan trading, and by 2034, the pecan market value is projected to be at USD 408.1 million.  Despite competition, the pecan in America has remained a top global producer in its native land. ***CREATING OWN GRAPH***
 
