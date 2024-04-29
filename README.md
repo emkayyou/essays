@@ -14,7 +14,7 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-### Pies and Pronunciations  
+#### Pies and Pronunciations  
 Thanksgiving in America arrives once a year, and friends and family members gather around the country to share a pecan pie. The debate on pronouncing this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the nut as puh-KHAN, but this is not necessarily true. In fact, one poll concluded that 45% of Southern residents say pee-CAN, and so do 70% of Northerners. We want to know how you say it, cast your pronounciation [here.](https://www.surveymonkey.com/r/TPDNWFK) ***Making our own image***
 
 Whether you pronounce it pee-CAN or puh-KHAN, the pecan tree has resisted active cultivation for most of its history while showering us with its delicious nut in its characteristic abundance. Today, despite its existence as a domesticated crop and suffering the effects of greed and domination, the pecan resiliently offers a vision of mutual flourishing and communal sharing.
@@ -24,9 +24,9 @@ Whether you pronounce it pee-CAN or puh-KHAN, the pecan tree has resisted active
        description="Pecan Pie"
        license="CC BY-SA 2.0">
 
-### Native American Discovery and Use
+#### Native American Discovery and Use
 
-### Early European Encounters
+#### Early European Encounters
 
 In 1533, Spanish explorers became the first Europeans to come into contact with the pecan of <span data-mouseover-map-flyto="34.328981419887434, -90.79370394592483, 5">North America</span>. Álvar Núñez Cabeza de Vaca, one of the leading explorers, recounts his travels through the area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, they found a stretch of land on which the fruit of the pecan tree was so numerous that they named it <span data-mouseover-map-flyto="28.507321, -96.891096, 13">"the river of nuts."</span> Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family <span eid="Q216944">Juglandaceae</span>, Europeans did not, at first, see a reason to cultivate a nut they thought they already enjoyed back home. Moreover, the European association of the pecan with Native Americans may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it wasn’t until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marset, learned from the Native Americans of Illinois that it was distinct from the walnut: “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
 <param ve-map
@@ -60,7 +60,7 @@ Distinct from the customs of foraging and planting nuts from wild pecan varietie
        description="Cleft Grafting with two young trees"
        license="CC0">
        
-### Reclaiming Enslaved Knowledge
+#### Reclaiming Enslaved Knowledge
 
 Grafting the pecan was apparently more difficult than Michaux would have hoped. It wasn’t until 1822 in South Carolina when [Abner Landrum,](https://madpotter-oldcanalpottery.blogspot.com/2010/06/dr-abner-landrum.html) a potter by trade, successfully grafted the pecan tree. But Landrum’s success did not come to fruition. His new trees died before producing nuts and the practice of grafting proved to be difficult for farmers and gardeners alike. One landowner in St. James Parish, Louisiana, Dr. A. E. Colomb, “cut scions (buds and stems) from a particularly impressive pecan tree” and attempted to graft them onto smaller ones. However, they did not survive. So, hoping someone else might succeed, he gave some of his leftover scions to the owner of Oak Alley Plantation, Telesphore J. Roman. It was on this Louisiana plantation along the Mississippi River in 1846-47 that Antoine, an enslaved African American man and a “gardener and expert grafter of Pecan Trees,” became the first person to cultivate an improved pecan variety. After Antoine successfully grafted and cultivated 16 trees of his new variety, Roman had him graft another 110 trees. This he also successfully accomplished, demonstrating both the viability of pecan grafting and the possibility of large scale cultivation of the pecan.
 <param ve-image
@@ -84,7 +84,7 @@ Despite its budding success and the initial fruit of Antoine’s craft, grafting
 	description="Illustration of Centennial Exposition"
 	license="CC0">
 
-### Pecan as Commodity 
+#### Pecan as Commodity 
 The shift from foraged to cultivated following the invention of pecan grafting saw a change in attitude toward the pecan nut. Particularly, between the 19th and 20th centuries, pecan grafting allowed the nut to be grown more purposefully and organized, transforming the pecan from a “native nut” to a commercialized commodity. The knowledge of, and ability to, graft pecans allowed southern landowners to transform the nut into a business venture, one that became steadily popularized as others realized how easy and profitable it was to grow the versatile and resilient nut.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
@@ -100,7 +100,7 @@ But how exactly did the landowners turn this newfound knowledge into a profitabl
 These brochures are significant because they mark the beginning of the commercialization of the pecan tree and its fruit, as landowners are either advertising and selling pecan trees and plots, or are selling their pecan-growing expertise to the general public, all for profit. Nevertheless, the pecan did not just become a profitable business because landowners began advertising their pecan-growing abilities. Rather, the invention of grafting acted as a ‘lightbulb’ above landowners’ heads, granting them a huge opportunity and the means to commodify the pecan by growing and selling it in any way that yielded profit.
 <param ve-iframe src="https://archive.org/embed/CAT31290349/page/n4/mode/2up">
 
-### Industrialization, Overproduction, and Resistance
+#### Industrialization, Overproduction, and Resistance
 
 The increased popularity of the pecan, as well as the successful cultivation of improved varieties, led to a major boom in pecan trees on orchard land.  Between the years 1900 and 1925, the number of orchard pecan trees in the U.S. went up from 567,000 to 8,733,000, exhibiting the greatest increase in the pecan’s history. A crucial player in this new industry was the U.S. Department of Agriculture. Since farmers tended to focus their planting on just a few of the most fruitful and delicious varieties, the pecan lost a crucial benefit of genetic diversity: the ability to fight off hungry insects. Thus, the USDA’s development of [insecticides](https://en.wikipedia.org/wiki/Insecticide) helped the pecan overcome the threat of unwelcome pests and gained the confidence of farmers who benefitted from the organization’s chemical creativity. The resilience of the pecan tree in overcoming the challenges of cultivation and commercialization allowed for astronomical increase in pecan production. However, this abundant increase did not cultivate wealth for all.
 <param ve-image
@@ -130,7 +130,7 @@ The Pecan Shellers’ act of resistance parallels the pecan’s own resiliency i
        description="Industrialization of Pecan"
        license="Public Domain">
 
-### Trade and Economic Growth
+#### Trade and Economic Growth
 
 The over-abundance of pecans in the 1990s meant that the nut became a huge trading opportunity for the United States with other countries, especially China. However, the United States needed help finding consumers for the pecan, since during this time, pecans weren’t as desired in America. It wasn’t until 2006 that Chinese consumers tasted an American pecan and decided they wanted the pecan, but the Chinese consumers preferred the taste of cultivated nuts over native nuts. In 2008, following a walnut shortage, the Chinese purchased 53 million pounds of pecans. Most exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, then shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China. The demand for pecans in China allowed American growers to sell their abundant pecan yield. Today, China is one of America’s top pecan buyers, however, this is starting to change as China is starting its own pecan orchards and as Mexico is starting to dominate the global pecan market.
 <param ve-map
@@ -167,7 +167,7 @@ The over-abundance of pecans in the 1990s meant that the nut became a huge tradi
 
 Cultivation of the pecan tree in China and Mexico is driving away the demand from American pecan growers. Since 2005, Mexico has claimed the top spot in exporting pecans. Mexico produces 50% of the global pecan output while America’s is 40%. Due to climate stability and lower labor costs, Mexico’s pecan production is at an all-time high. Mexico has significantly challenged United States markets due to its extensive acreage of pecan tree orchards. However, pecan markets in the United States still are in high demand. The United States market is currently valued at USD 230.4 million from pecan trading, and by 2034, the pecan market value is projected to be at USD 408.1 million.  Despite competition, the pecan in America has remained a top global producer in its native land. ***CREATING OWN GRAPH***
 
-### Decreased Genetic Diversity
+#### Decreased Genetic Diversity
 The lack of genetic diversity among the trees in pecan orchards caused the pecan to be under attack from diseases, growing more chemical-resistant and dwindling in numbers. As chemicals in pesticides and disease control become more potent, pecan trees and pests are becoming more resistant to these chemicals. As a result, pests like <span eid=Q183350> Oleander (yellow) aphids </span> are infesting and destroying cultivated pecan trees. Yellow aphids are not a threat to native pecan trees because they have natural inhabitants that defend the tree, like spiders. Cultivated trees, however, do not contain spiders and other natural defenders due to pesticides, making these trees more susceptible to yellow aphids. This epidemic leaves farmers with two choices: buy a more expensive pesticide that the tree or pests aren’t resistant to, or have their trees die. Either way, farmers lose money, and consumers lose their nuts.
 <param ve-image	
 	url="https://upload.wikimedia.org/wikipedia/commons/3/34/Aphis_nerii_173041308.jpg"
@@ -175,8 +175,8 @@ The lack of genetic diversity among the trees in pecan orchards caused the pecan
 	description="Illustration of Oleander Aphids Infesting Plants"
 	license="CC0">
 
-### Wisdom of the Pecan 
-(paragraph 2) To that end, Kimmerer has offered an antidote for the shakiness of the future in her phrase, “All Flourishing is Mutual” from her chapter “The Council of Pecans” in Braiding Sweetgrass. Here, Kimmerer illustrates that harmony can only be achieved if there is a reciprocal and cooperative relationship between all living beings: “If one tree fruits, they all fruit— there are no soloists. Not one tree in a grove, but the whole grove; not one grove in the forest, but every grove; all across the country and all across the state. The trees act not as individuals, but somehow as a collective. Exactly how they do this, we don’t yet know. But what we see is the power of unity. What happens to one happens to us all. We can starve together or feast together. All flourishing is mutual."
+#### Wisdom of the Pecan 
+(second part of conclusion) To that end, Kimmerer has offered an antidote for the shakiness of the future in her phrase, “All Flourishing is Mutual” from her chapter “The Council of Pecans” in Braiding Sweetgrass. Here, Kimmerer illustrates that harmony can only be achieved if there is a reciprocal and cooperative relationship between all living beings: “If one tree fruits, they all fruit— there are no soloists. Not one tree in a grove, but the whole grove; not one grove in the forest, but every grove; all across the country and all across the state. The trees act not as individuals, but somehow as a collective. Exactly how they do this, we don’t yet know. But what we see is the power of unity. What happens to one happens to us all. We can starve together or feast together. All flourishing is mutual."
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Carya_illinoinensis.jpg/640px-Carya_illinoinensis.jpg"
        label="Pecan Tree Carya illinoinensis, 68-year-old tree from seed. Morton Arboretum"
