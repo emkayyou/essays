@@ -125,6 +125,11 @@ Cultivation of the pecan tree in China and Mexico is driving away the demand fro
 
 ### Decreased Genetic Diversity
 The lack of genetic diversity among the trees in pecan orchards caused the pecan to be under attack from diseases, growing more chemical-resistant and dwindling in numbers. As chemicals in pesticides and disease control become more potent, pecan trees and pests are becoming more resistant to these chemicals. As a result, pests like Oleander (yellow) aphids are infesting and destroying cultivated pecan trees. Yellow aphids are not a threat to native pecan trees because they have natural inhabitants that defend the tree, like spiders. Cultivated trees, however, do not contain spiders and other natural defenders due to pesticides, making these trees more susceptible to yellow aphids. This epidemic leaves farmers with two choices: buy a more expensive pesticide that the tree or pests aren’t resistant to, or have their trees die. Either way, farmers lose money, and consumers lose their nuts.
+<param ve-image	
+	url="https://upload.wikimedia.org/wikipedia/commons/3/34/Aphis_nerii_173041308.jpg"
+	label="Oleander (Yellow) Aphids"
+	description="Illustration of Oleander Aphids Infesting Plants"
+	license="CC0">
 
 ### Wisdom of the Pecan 
 (paragraph 2) To that end, Kimmerer has offered an antidote for the shakiness of the future in her phrase, “All Flourishing is Mutual” from her chapter “The Council of Pecans” in Braiding Sweetgrass. Here, Kimmerer illustrates that harmony can only be achieved if there is a reciprocal and cooperative relationship between all living beings: “If one tree fruits, they all fruit— there are no soloists. Not one tree in a grove, but the whole grove; not one grove in the forest, but every grove; all across the country and all across the state. The trees act not as individuals, but somehow as a collective. Exactly how they do this, we don’t yet know. But what we see is the power of unity. What happens to one happens to us all. We can starve together or feast together. All flourishing is mutual."
