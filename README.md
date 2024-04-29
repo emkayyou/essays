@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="The Pecan: Cracked Shells and Grafted Wealth."
+       title="The Pecan: Cracked Shells and Grafted Wealth"
        author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Carya_illinoinensis_%28pecan_tree%29_2_%2839629039592%29.jpg/640px-Carya_illinoinensis_%28pecan_tree%29_2_%2839629039592%29.jpg"
        layout="vertical">
