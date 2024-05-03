@@ -120,7 +120,7 @@ The increased popularity of the pecan, as well as the successful grafting and cu
        license="Public Domain">
 
 The solution came from an emerging organization of the U.S. Federal Government: the U.S. Department of Agriculture. The USDA’s development of <span eid="Q181322">insecticides</span> helped the pecan overcome the threat of unwelcome pests and gained the confidence of farmers who benefitted from the organization’s chemical creativity. Insecticides may have allowed farmers to save their agricultural enterprises and gain wealth, but it never really addressed the issue of genetic diversity, which was at the root of the problem for the pecan. Thus, pecan orchards, helped by the chemical sciences, followed the path towards financial increase. However, this abundant increase did not cultivate wealth for all, and the pecan was not the only one to suffer the effects of greed.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fruit_Spraying%2C_Upper_Moutere.jpg"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fruit_Spraying%2C_Upper_Moutere.jpg?20200824022719"
        label="Insecticides being sprayed on trees"
        description="Photo by USDA"
        license="CC 2.0">
