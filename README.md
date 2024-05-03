@@ -141,7 +141,7 @@ In response to this injustice, the laborers, led by a woman named [Emma Tenayuca
 
 The working conditions and pay for laborers of pecan factories bears a striking resemblance to the pecan trees cultivated on orchard lands. While women and men, seated equidistant from each other on an assembly line, were being valued only according to their level of production, the pecan, homogenized in perfectly planted rows, was valued only for its coveted produce. The wild pecan had officially become a domesticated crop, and the pecan was seen as a tree which exists “to serve not nature’s economy but the human economy.” The shift from passive to active cultivation of the pecan was now well established, and the result was that the pecan suffered the same threat as its shellers in San Antonio. Even though this period of immense productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. The ongoing genetic homogenization of the pecan within a capitalistic paradigm threatened the very source of the pecan’s power to adapt and survive: genetic diversity. As time went on, the narrowing gene pool and reduced naturally occurring varieties of the pecan posed significant challenges for farmers, the USDA, and the pecan itself.
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Irrigating_Pecans.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Irrigating_Pecans.jpg?20120729204241"
        label="Pecan Orchard being irrigated"
        description="Industrialization of Pecan"
        license="Public Domain">
