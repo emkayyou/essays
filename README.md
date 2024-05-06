@@ -203,7 +203,8 @@ The trend of high pecan consumption in the United States continued until the 199
  
 Currently, China is starting its own pecan orchards, and Mexico is starting to dominate the global pecan market. Cultivation of the pecan tree in China and Mexico is driving away the demand from American pecan growers. Since 2005, Mexico has claimed the top spot globally in exporting pecans. Mexico now produces 50% of the global pecan output while the United States only produces 40%. Due to the consistently warmer weather and lower labor costs, Mexico’s pecan production is at an all-time high. Mexico also has room for extensive acreage of pecan orchards. Mexico is successfully cultivating the pecan in abundant masses, while American farmers are struggling financially to keep up with Mexico. With this, the pecan’s native country is failing the pecan itself.
 <param ve-image
-       url="https://raw.githubusercontent.com/emkayyou/essays/1319aa2b741414f74837c237db1ae9d3d84ead9d/Dark%20Blue%20and%20Purple%20Simple%20Budget%20Pie%20Chart%20Graph.jpg"
+url="https://raw.githubusercontent.com/emkayyou/essays/1319aa2b741414f74837c237db1ae9d3d84ead9d/Dark%20Blue%20and%20Purple%20Simple%20Budget%20Pie%20Chart%20Graph.jpg"
+	range="0,-60,951,889"
        label="Graph of 2023 Pecan Exports by Country"
        description="This graph shows how the United States and Mexico are in compeition with one another"
        license="Made by Stefania Rocca">
