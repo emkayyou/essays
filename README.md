@@ -197,7 +197,7 @@ Currently, China is starting its own pecan orchards, and Mexico is starting to d
        url="https://raw.githubusercontent.com/emkayyou/essays/1319aa2b741414f74837c237db1ae9d3d84ead9d/Dark%20Blue%20and%20Purple%20Simple%20Budget%20Pie%20Chart%20Graph.jpg"
        label="Graph of 2023 Pecan Exports by Country"
        description="This graph shows how the United States and Mexico are in compeition with one another"
-       license="Courtsey of the Pecan Group">
+       license="Made by Stefania Rocca">
        
 #### Decreased Genetic Diversity
 The cultivation of the pecan has caused serious consequences. With the lack of diversity among the trees in pecan orchards, the pecan has become more susceptible to diseases and species that transmit diseases. As chemicals in pesticides and disease control become more potent, pecan trees and pests are becoming more resistant to these chemicals. For example, <span eid=Q183350> Oleander (yellow) aphids </span> are infesting and destroying cultivated pecan trees in Texas. Yellow aphids are not a threat to wild pecan trees because they have natural inhabitants that defend the tree by eating the yellow aphids, like Mesh-web weaver spiders (Dictynidae). Cultivated trees, however, do not contain spiders and other natural defenders due to pesticides, making these trees more susceptible to yellow aphids. This epidemic leaves farmers with two choices: buy a more expensive pesticide that the tree or pests have not grown resistant to yet or have their trees die. There is a possibility that one day pesticides will not work on cultivated pecans. Either way, farmers lose money, and consumers lose their nuts. 
