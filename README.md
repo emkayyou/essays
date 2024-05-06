@@ -18,7 +18,7 @@
 Thanksgiving in America arrives once a year, and friends and family members gather around the country to share a pecan pie. The debate on pronouncing this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the nut as puh-KHAN, but this is not necessarily true. In fact, one poll concluded that 45% of Southern residents say pee-CAN, and so do 70% of Northerners. We want to know how you say it, cast your pronunciation [here.](https://www.surveymonkey.com/r/TPDNWFK)
 <param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
- 	label="Pecans Having a Disagreement"
+ 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
   	description="Pecans discuss how to call themselves"
 	license="Courtsey of Allison Caban">
 
