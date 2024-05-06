@@ -19,8 +19,8 @@ Thanksgiving in America arrives once a year, and friends and family members gath
 <param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
  	label="Pecans Having a Disagreement"
-  	Description="Pecans discuss how to call themselves"
-   	License="Courtsey of Allison Caban">
+  	description="Pecans discuss how to call themselves"
+	license="Courtsey of Allison Caban">
 
 
 Whether you pronounce it pee-CAN or puh-KHAN, this cultural classic has a history richer than its tasty Thanksgiving pies. The pecan tree has resisted cultivation for most of its history while showering us with its delicious nut in its characteristic generosity. Today, despite its existence as a domesticated crop and suffering the effects of human greed and attempts at domination, the pecan resiliently offers us a vision of mutual flourishing and communal sharing. 
