@@ -153,6 +153,13 @@ The working conditions and pay for laborers of pecan factories bears a striking 
        license="Public Domain">
 
 #### Trade and Economic Growth
+Over the next forty years, the pecan industry experienced a high volume of pecans due to industrialization and cultivation of pecans. Ultimately, pecans were yielding more than Americans could chew. With this high volume, the United States had to figure out what to do with all these nuts! This resulted in the creation of government contracts and new foods. The pecan was found in many different food items, including cereals, breads, and candies. Culinary chefs were concocting new ways to incorporate pecans into their desserts and foods. However, the 1950s saw the national emergence of the Thanksgiving staple, pecan pie. The pecan pie originated in the American South during Thanksgiving time, specifically in New Orleans during the 1930s, but as the number of pecans increased over the years, this dessert became popular nationwide. Why are pecans associated with Thanksgiving? Well, the harvesting of pecans occurs in the fall during the same time as Thanksgiving. Pecans produced creativity and culture, while farmers inflated the market with cultivated pecans, ultimately leaving consumers tired of pecans and farmers with too many pecans.
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Making_turtles.jpg"
+       label="Candy Maker Preparing Pecans for Candies"
+       description="This Candy Maker is preparing shelled pecans to make Turtles"
+       license="CC BY-SA 4.0">
+
 Pecan farmers in the 1990s had an overabundance of pecans with no consumers; farmers needed to find someone to eat their pecans! Farmers in the United States were searching around the globe for consumers, since during this time, America rejected the nut. Farmers tried to enter the European market, but it was no place for the pecan since they produced walnuts. It wasn’t until 2006 that the farmers finally found a buyer at a trade show. At the trade show, Chinese consumers tasted an American pecan and decided they wanted the cultivated pecans. In 2008, following a global walnut shortage, the Chinese purchased 53 million pounds of pecans. The largest pecan exports come from farms in <span data-mouseover-map-flyto="31.241, -98.723, 5"> East Texas </span> and <span data-mouseover-map-flyto="32.708, -83.178, 5"> Georgia</span>, then shipped to <span data-mouseover-map-flyto="22.3526, 114.1603, 10"> Hong Kong</span>, China. The demand for pecans in China allowed American growers to sell their abundant pecan yield. Today, China is one of America’s top pecan buyers.
 <param ve-map
 	center="22.3526, 114.1603"
