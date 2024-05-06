@@ -38,20 +38,20 @@ Native Americans were the first to come into contact with the pecan nut, which t
 	label="Pecan nuts on the ground"
 	description="This photo shows pecan nuts on the ground, illustrating that they have fallen from the trees. This demonstrates and mirrors Native foraging habits."
 	license="CC0"
-	region="-102,16,732,697">
+	region="1140,313,3338,3120">
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg/640px-Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg"
 	label="Cracked pecan shells"
 	description="This photo shows cracked pecan shells, demonstrating Native pecan foraging techniques."
 	license="CC0"
-	region="-102,16,732,697">
+	region="129,21,432,404">
 
 The pecan, as an essential component of Native American diet and culture, heavily influenced migration patterns due to its specific alternate fruiting and masting patterns. Specifically, the Comanche, Caddo, and Kickapoo tribes not only based their migration patterns off of the pecan's masting schedule, but also may have settled where they did because of its closeness to abundant pecan groves. Although a peculiar phenomenon, the alternate masting quickly became apparent to the Native Americans as some groves would fruit while others would not. Nevertheless, because of the sheer abundance of nuts that the trees would produce, Native Americans did not mind fitting their migration patterns around the pecans’ unusual schedule, as “The pecan trees, to an extent, told them where to go. Indians, fully sold on the nuts worth, followed”. Due to this peculiar fruiting cycle, Native Americans had to find ways to store the pecan. Particularly, the Caddo tribe would store pecans in leather bags to use as a food and trade source throughout the Spring and Winter seasons. Considering that the pecans were fully ingrained in Native American culture and way of life, the pecan eventually became a staple in trading patterns, as different groups would carry around baskets upon baskets full of pecans to exchange with other Native American groups. Although, at this point, Native Americans were in a wholly harmonious relationship with the pecan, the arrival of different groups to the Americas marked an attempt to fracture this relationship.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/0/06/Pecans_Bastrop_County_Texas_October_2022.jpg"
        label="Ripening pecans on tree"
        description="This photo shows pecans in the middle stages of growing on the trees, to demonstrate a tree that is masting."
-       region="1,-125,654,625">
+       region="550,1,2090,2000">
 
 
 #### Early European Encounters
