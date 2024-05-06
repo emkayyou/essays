@@ -130,7 +130,7 @@ But how exactly did the landowners turn this newfound knowledge into a profitabl
 The increased popularity of the pecan, as well as the successful grafting and cultivation of improved varieties, led to a major boom in pecan trees on orchard land.  Between the years 1900 and 1925, the number of orchard pecan trees in the U.S. went up from 567,000 to 8,733,000, exhibiting the greatest increase in the pecan’s history. Despite this abundant increase, growing pecans on orchard land resulted in a major challenge for pecans and its farmers. Since farmers tended to focus their planting on just a few of the most fruitful and delicious varieties, the pecan lost a crucial benefit of genetic diversity: the ability to fight off hungry insects. Pecans may be resilient and farmers may be knowledgeable, but the genetic uniformity of pecan orchards was proving to be a lethal blow to the pecan’s capacity to survive its new commercialized context. This new problem needed a new solution.
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Acrobasis_juglandis_1224011.jpg"
-       label="Pecan Leaf Casebearer"
+       label="Pecan Leaf Casebearer Moth"
        description="Photo by USDA"
        license="Public Domain">
 
