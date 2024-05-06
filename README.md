@@ -229,7 +229,7 @@ Potowatami botanist and author Robin Wall Kimmerer has written much about the pe
  
 This brief excerpt from Kimmerer speaks grand volumes to the importance of unity and the ways in which what happens to one, happens to all. Kimmerer’s wisdom here can be applied in a few different ways. First, within pecans themselves, the synchronous flourishing demonstrated in their mast-fruiting patterns illustrates a communicative harmony entrenched within their social DNA. Second, within the relationship between humans and pecans— and all nature we share a relationship with, really—, is the simple fact that if humans do not start respecting, protecting, and nurturing the pecan, that it will ultimately cease to provide its gifts for us; and we would be to blame. Lastly, Kimmer’s wisdom here can act as a metaphor for human interpersonal relationships. That is, if we cannot live in harmony and with a mutual understanding of one another, then our flourishing is out of the question. Whatever the case may be, though, Kimmer’s wisdom and the story of the pecan and its resilience proves itself to be an indispensable, invaluable lesson for our life today, that of which becomes more relevant if we want to see our life tomorrow. As is the case with the delicious pecan pie, the sweeter things in life can only exist and be enjoyed when we come together as one.
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/06/Pecans_Bastrop_County_Texas_October_2022.jpg"
-       label="Ripening pecans on tree"
-       description="This photo shows pecans in the middle stages of growing on the trees, to demonstrate a tree that is masting."
-       region="1,-125,654,625">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Pecan_Pie%3F.jpg"
+       label="Young girl serving pecan pie."
+       description="This photo shows a young girl serving a pecan pie, symbolizing the interconnectedness between the pecan and the human."
+       license="CC BY-SA 2.0">
