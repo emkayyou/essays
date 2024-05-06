@@ -202,10 +202,10 @@ Currently, China is starting its own pecan orchards, and Mexico is starting to d
 #### Decreased Genetic Diversity
 The cultivation of the pecan has caused serious consequences. With the lack of diversity among the trees in pecan orchards, the pecan has become more susceptible to diseases and species that transmit diseases. As chemicals in pesticides and disease control become more potent, pecan trees and pests are becoming more resistant to these chemicals. For example, <span eid=Q183350> Oleander (yellow) aphids </span> are infesting and destroying cultivated pecan trees in Texas. Yellow aphids are not a threat to wild pecan trees because they have natural inhabitants that defend the tree by eating the yellow aphids, like Mesh-web weaver spiders (Dictynidae). Cultivated trees, however, do not contain spiders and other natural defenders due to pesticides, making these trees more susceptible to yellow aphids. This epidemic leaves farmers with two choices: buy a more expensive pesticide that the tree or pests have not grown resistant to yet or have their trees die. There is a possibility that one day pesticides will not work on cultivated pecans. Either way, farmers lose money, and consumers lose their nuts. 
 <param ve-image	
-	url="https://upload.wikimedia.org/wikipedia/commons/3/34/Aphis_nerii_173041308.jpg"
+	url="https://upload.wikimedia.org/wikipedia/commons/7/75/Yellow_Aphids_%283816108670%29.jpg"
 	label="Oleander (Yellow) Aphids"
 	description="Illustration of Oleander Aphids Infesting Plants"
-	license="CC0">
+	license="CC BY-SA 2.0">
 
 #### Wisdom of the Pecan 
 Even as pecans have become a global crop and commodity, it's important to remember that this wasn’t always the case. The pecan’s first interaction with humans was balanced and devoid of exploitation, as Native Americans retrieved pecans only when needed— carrying them with them on long journeys or picking them up during stretches of hunting and gathering. In return, Native Americans gave back to the pecan in a reciprocal manner. In the spirit of Indigenous tradition, there are many lessons that humans can take from this wise nut, rather than just sitting back and marveling at its strength and resilience against overproduction and commodification.
