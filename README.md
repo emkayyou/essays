@@ -3,7 +3,7 @@
 <param ve-config
        title="Pecan: From Foraged Nut to Cultivated Classic"
        author="Stefania Rocca, Paolo Taffaro, MaryKathryn Underwood"
-       banner="https://upload.wikimedia.org/wikipedia/commons/7/77/Carya_illinoinensis_foliagenuts1.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
