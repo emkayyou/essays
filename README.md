@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Pecan: From Foraged Nut to Cultivated Classic"
-       author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
+       author="Stefania Rocca, Paolo Taffaro, MaryKathryn Underwood"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Carya_illinoinensis_foliagenuts.jpg/1588px-Carya_illinoinensis_foliagenuts.jpg?20081129012902"
        layout="vertical">
 
