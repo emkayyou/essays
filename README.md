@@ -20,7 +20,7 @@ Thanksgiving in America arrives once a year, and friends and family members gath
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
  	label="Pecans Having a Disagreement, courtesy of Allison Caban"
   	description="Pecans discuss how to call themselves"
-	license="Courtsey of Allison Caban">
+	license="Courtesy of Allison Caban">
 
 
 Whether you pronounce it PEE-CAN or puh-KHAN, this culinary classic has a history richer and more complex than the ubiquitous popularity of Thanksgiving pies might suggest. As historian James McWilliams has argued, the pecan (Carya illinoinensis) first became an important food source for people in the Americas thousands of years ago due to its high nutritional value and abundance. Moreover, for most of history, humans relied not on cultivated pecans but on wild ones to feed themselves, since wild pecan populations have been unusually resilient and capable of maintaining themselves. In other words, humans adapted to the rhythms and life cycles of the pecan. Beginning in the late nineteenth century, however, pecan cultivation ramped up, as humans began to seek to control pecan production and increase its output. This trend has resulted in numerous potential threats to the pecan, including loss of genetic diversity and potential extinction. While the future of the pecan may currently appear grim, the answer to the problem of the pecan’s future lie within the deep history of its relationship with humans. If we could go back to a more reciprocal, mutually beneficial relationship with pecans, both we and pecans could flourish. 
@@ -44,6 +44,7 @@ The pecan, as an essential component of Native American diets, heavily influence
 <param ve-image    
 	url="https://upload.wikimedia.org/wikipedia/commons/2/27/Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
        label="Caddoan Mississippian Culture Map"
+	license="CC0"
 	region="-2,-56,605,579">
 
 #### Early European Encounters
@@ -51,12 +52,14 @@ In 1533, Spanish explorers became the first Europeans to come into contact with 
 <param ve-image    
 url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
        label="Map of Cabeza de Vaca Expedition"
+	license="CC0"
        region="424,-301,1577,1509">
 
 Moreover, the European association of the pecan with perceived “uncivilized” Native American ways may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that it was distinct from the walnut. Writing to his Jesuit community back in Europe, he recorded, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
 <param ve-image      url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Illinois%2C_historical_and_statistical_-_comprising_the_essential_facts_of_its_planting_and_growth_as_a_province%2C_county%2C_territory%2C_and_state_%281889%29_%2814592501177%29.jpg"
        label="Illustrated Map of Mississippi River and Kaskaskia village"
 	description="This illustrated map shows where Marest was working"
+	license="CC0"
        region="550,1,2090,2000">
 
 Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic bias, as well as contentment with the familiar walnut, it does not mean there was no interest at all. André Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America in 1803, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.” Not only does he affirm the nut’s good qualities but also he asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.”
