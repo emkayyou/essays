@@ -214,3 +214,150 @@ As is the case with the delicious pecan pie, the sweeter things in life can only
        label="Young girl serving pecan pie."
        description="This photo shows a young girl serving a pecan pie, symbolizing the interconnectedness between the pecan and the human."
        license="CC BY-SA 2.0">
+
+# References 
+[^Ref 1]: 
+
+[^Ref 2]:
+
+[^Ref 3]:
+
+[^Ref 4]:
+
+[^Ref 5]:
+
+[^Ref 6]:
+
+[^Ref 7]:
+
+[^Ref 8]:
+
+[^Ref 9]:
+
+[^Ref 10]:
+
+[^Ref 11]:
+
+[^Ref 12]:
+
+[^Ref 13]:
+
+[^Ref 14]:
+
+[^Ref 15]:
+
+[^Ref 16]:
+
+[^Ref 17]:
+
+[^Ref 18]:
+
+[^Ref 19]:
+
+[^Ref 20]:
+
+[^Ref 21]:
+
+[^Ref 22]:
+
+[^Ref 23]:
+
+[^Ref 24]:
+
+[^Ref 25]:
+
+[^Ref 26]:
+
+[^Ref 27]:
+
+[^Ref 28]:
+
+[^Ref 29]:
+
+[^Ref 30]:
+
+[^Ref 31]:
+
+[^Ref 32]:
+
+[^Ref 33]:
+
+[^Ref 34]:
+
+[^Ref 35]:
+
+[^Ref 36]:
+
+[^Ref 37]:
+
+[^Ref 38]:
+
+[^Ref 39]:
+
+[^Ref 40]:
+
+[^Ref 41]:
+
+[^Ref 42]:
+
+[^Ref 43]:
+
+[^Ref 44]:
+
+[^Ref 45]:
+
+[^Ref 46]:
+
+[^Ref 47]:
+
+[^Ref 48]:
+
+[^Ref 49]:
+
+[^Ref 50]:
+
+[^Ref 51]:
+
+[^Ref 52]:
+
+[^Ref 53]:
+
+[^Ref 54]:
+
+[^Ref 55]:
+
+[^Ref 56]:
+
+[^Ref 57]:
+
+[^Ref 58]:
+
+[^Ref 59]:
+
+[^Ref 60]:
+
+[^Ref 61]:
+
+[^Ref 62]:
+
+[^Ref 63]:
+
+[^Ref 64]:
+
+[^Ref 65]:
+
+[^Ref 66]:
+
+[^Ref 67]:
+
+[^Ref 68]:
+
+[^Ref 69]:
+
+[^Ref 70]:
+
+[^Ref 71]:
+
+[^Ref 72]:
+
+[^Ref 73]:
