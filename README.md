@@ -15,7 +15,7 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 #### Pies and Pronunciations  
-Thanksgiving in America arrives once a year, and friends and family members gather around the country to share a pecan pie. The debate on pronouncing this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the nut as puh-KHAN, but this is not necessarily true. In fact, one poll concluded that 45% of Southern residents say PEE-CAN, and so do 70% of Northerners[Ref^ 1]. We want to know how you say it, cast your pronunciation [here.](https://www.surveymonkey.com/r/TPDNWFK)
+Thanksgiving in America arrives once a year, and friends and family members gather around the country to share a pecan pie. The debate on pronouncing this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the nut as puh-KHAN, but this is not necessarily true. In fact, one poll concluded that 45% of Southern residents say PEE-CAN, and so do 70% of Northerners[^Ref 1]. We want to know how you say it, cast your pronunciation [here.](https://www.surveymonkey.com/r/TPDNWFK)
 <param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
  	label="Pecans Having a Disagreement, courtesy of Allison Caban"
