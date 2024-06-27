@@ -216,148 +216,150 @@ As is the case with the delicious pecan pie, the sweeter things in life can only
        license="CC BY-SA 2.0">
 
 # References 
-[^Ref 1]: 
+[^Ref 1]: Steven Petrow, “History | ILovePecans,” National Pecan Shellers Association, accessed April 14, 2024, <https://ilovepecans.org/history/.>
 
-[^Ref 2]:
+[^Ref 2]: McWilliams, The Pecan, 7.
 
-[^Ref 3]:
+[^Ref 3]: McWilliams, The Pecan, 3-5.
 
-[^Ref 4]:
+[^Ref 4]: McWilliams, The Pecan, 6.
 
-[^Ref 5]:
+[^Ref 5]: McWilliams, The Pecan, 10-11.
 
-[^Ref 6]:
+[^Ref 6]: McWilliams, The Pecan, 6-8.
 
-[^Ref 7]:
+[^Ref 7]: Grant D. Hall, “Pecan Food Potential in Prehistoric North America,” Economic Botany 54, no. 1 (January 2000): 109.
 
-[^Ref 8]:
+[^Ref 8]: McWilliams, The Pecan, 8.
 
-[^Ref 9]:
+[^Ref 9]: McWilliams, The Pecan, 8.
 
-[^Ref 10]:
+[^Ref 10]: McWilliams, The Pecan, 9.
 
-[^Ref 11]:
+[^Ref 11]: McWilliams, The Pecan, 10.
 
-[^Ref 12]:
+[^Ref 12]: McWilliams, The Pecan, 9.
 
-[^Ref 13]:
+[^Ref 13]: McWilliams, The Pecan, 10.
 
-[^Ref 14]:
+[^Ref 14]: McWilliams, The Pecan, 18.
 
-[^Ref 15]:
+[^Ref 15]: Robin Wall Kimmerer, Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants (Milkweed Editions, 2013), 20.
 
-[^Ref 16]:
+[^Ref 16]: Álvar Núñez Cabeza de Vaca, Álvar Núñez Cabeza de Vaca: His Account, His Life, and the Expedition of Pánfilo de Narváez, vol. 2, ed. Rolena Adorno and Patrick Charles Pautz (Lincoln: University of Nebraska Press, 1999), 212.
 
-[^Ref 17]:
+[^Ref 17]: McWilliams, The Pecan, 23.
 
-[^Ref 18]:
+[^Ref 18]: James McWilliams, “The Pecan: The History of America’s Native Nut,” The Arnold Arboretum of Harvard University, March 4, 2021, video, 30:00, <https://www.youtube.com/watch?v=l1n26fj4rHI>.
 
-[^Ref 19]:
+[^Ref 19]: Fr. Gabriel Marest, “Letter to Father Germon,” in The Jesuit Relations and Allied Documents, ed. R.G. Thwaites (Cleveland: The Imperial Press, 1899), 227.
 
 [^Ref 20]:
 
-[^Ref 21]:
+[^Ref 21]: Michaux, North American Sylva, 74.
 
-[^Ref 22]:
+[^Ref 22]: C.W. Melnyk, C. Schuster, O. Leyser, and E.M. Meyerowitz, “A Developmental Framework for Graft Formation and Vascular Reconnection in Arabidopsis thaliana,” Current Biology 25, no. 10 (2015), 1306-18, doi: 10.1016/j.cub.2015.03.032.
 
-[^Ref 23]:
+[^Ref 23]: McWilliams, The Pecan, 59.
 
-[^Ref 24]:
+[^Ref 24]: McWilliams, The Pecan, 60.
 
-[^Ref 25]:
+[^Ref 25]: McWilliams, The Pecan, 61.
 
-[^Ref 26]:
+[^Ref 26]: McWilliams, The Pecan, 61.
 
-[^Ref 27]:
+[^Ref 27]: Lenny Wells, Pecan: America’s Native Nut Tree (Tuscaloosa: University of Alabama Press, 2017), 38.
 
-[^Ref 28]:
+[^Ref 28]:  McWilliams, The Pecan, 62.
 
-[^Ref 29]:
+[^Ref 29]: Katy Morlas Shannon, Antoine of Oak Alley: the Unlikely Origin of Southern Pecans and the Enslaved Man Who Cultivated Them (New Orleans: Pelican Publishing, 2021), 17.
 
-[^Ref 30]:
+[^Ref 30]: Shannon, Antoine, 17-20.
 
-[^Ref 31]:
+[^Ref 31]: Shannon, Antoine, 21.
 
-[^Ref 32]:
+[^Ref 32]: Shannon, Antoine, 20, 33.
 
-[^Ref 33]:
+[^Ref 33]: Shannon, Antoine, 49.
 
-[^Ref 34]:
+[^Ref 34]: Shannon, Antoine, 49.
 
-[^Ref 35]:
+[^Ref 35]: Shannon, Antoine, 101.
 
-[^Ref 36]:
+[^Ref 36]: Shannon, Antoine, 101.
 
-[^Ref 37]:
+[^Ref 37]: Wells, America’s Native Nut, 39.
 
-[^Ref 38]:
+[^Ref 38]: Tiya Miles, “Every Pecan Tree: Trees, Meaning, and Memory in Enslaved Peoples’ Lives,” The Arnold Arboretum of Harvard University, March 8, 2024, video, 27:37, <https://www.youtube.com/watch?v=rCyQYMPZ46Y>.
 
-[^Ref 39]:
+[^Ref 39]: Shannon, Antoine, 105.
 
-[^Ref 40]:
+[^Ref 40]: Shannon, Antoine, 128.
 
-[^Ref 41]:
+[^Ref 41]: Shannon, Antoine, 183.
 
-[^Ref 42]:
+[^Ref 42]: Shannon, Antoine, 183.
 
-[^Ref 43]:
+[^Ref 43]: McWilliams, The Pecan, 63.
 
-[^Ref 44]:
+[^Ref 44]: Wells, America’s Native Nut, 40.
 
-[^Ref 45]:
+[^Ref 45]: McWilliams, The Pecan, 64.
 
-[^Ref 46]:
+[^Ref 46]: H. P. Stuckey and E. J. Kyle, Pecan-Growing. New York: Macmillan, 1925: 17.
 
-[^Ref 47]:
+[^Ref 47]: Stuckey and Kyle, Pecan-Growing, 22.
 
-[^Ref 48]:
+[^Ref 48]: John W.B. Hershey, Hardy Grafted Nut Trees: Price Sheet for Spring of 1930 (Pennsylvania, 1930), 4.
 
-[^Ref 49]:
+[^Ref 49]: McWilliams, The Pecan, 110.
 
-[^Ref 50]:
+[^Ref 50]: Facts About Paper Shell Pecans. Your Opportunity Growing Them in Sunny Florida (Illinois: Oak Ridge Pecan Company, 1910), 8.
 
-[^Ref 51]:
+[^Ref 51]: C. A. Yancey, Let Me Plant a Pecan Grove for You (Louisiana, 1909), 4.
 
-[^Ref 52]:
+[^Ref 52]: Yancey, Pecan Grove, 11-14.
 
-[^Ref 53]:
+[^Ref 53]: McWilliams, The Pecan, 77.
 
-[^Ref 54]:
+[^Ref 54]: McWilliams, The Pecan, 78-82.
 
-[^Ref 55]:
+[^Ref 55]: McWilliams, The Pecan, 88.
 
-[^Ref 56]:
+[^Ref 56]: McWilliams, The Pecan, 97-98.
 
-[^Ref 57]:
+[^Ref 57]:“Monopoly and Misery,” Texas Civil Liberties Union, Austin, TX, in How Did Mexican Working Women Assert Their Labor and Constitutional Rights in the 1938 San Antonio Pecan Shellers Strike?, by Thomas Dublin, Taina DelValle, and Rosalyn Perez (Binghamton, NY: State University of New York at Binghamton, 1999).
 
-[^Ref 58]:
+[^Ref 58]: Monopoly and Misery, in Pecan Shellers Strike, by Dublin, DelValle, and Perez.
 
-[^Ref 59]:
+[^Ref 59]: Monopoly and Misery, in Pecan Shellers Strike, by Dublin, DelValle, and Perez.
 
-[^Ref 60]:
+[^Ref 60]: “U.S. Inflation Calculator,” Coinnews Media Group LLC, accessed April 17, 2024, <https://www.usinflationcalculator.com/>.
 
-[^Ref 61]:
+[^Ref 61]:Story of the Strike, by Texas Civil Liberties Union, Austin, TX, in How Did Mexican Working Women Assert Their Labor and Constitutional Rights in the 1938 San Antonio Pecan Shellers Strike?, by Thomas Dublin, Taina DelValle, and Rosalyn Perez (Binghamton, NY: State University of New York at Binghamton, 1999).
 
-[^Ref 62]:
+[^Ref 62]: Harold Shapiro, “The Pecan Shellers of San Antonio, Texas,” The Southwestern Social Science Quarterly 32, no. 4 (March 1952): 242.
 
-[^Ref 63]:
+[^Ref 63]: Shapiro, “Pecan Shellers,” 243.
 
-[^Ref 64]:
+[^Ref 64]: Shapiro, “Pecan Shellers,” 242.
 
-[^Ref 65]:
+[^Ref 65]: McWilliams, The Pecan, 80.
 
-[^Ref 66]:
+[^Ref 66]: McWilliams, The Pecan, 98.
 
-[^Ref 67]:
+[^Ref 67]: McWilliams, The Pecan, 122.
 
-[^Ref 68]:
+[^Ref 68]: McWilliams, The Pecan, 137.
 
-[^Ref 69]:
+[^Ref 69]: McWilliams, The Pecan, 142.
 
-[^Ref 70]:
+[^Ref 70]: “U.S. Pecan Market Insight,” MetLife Investment Management, accessed May 6, 2024, <https://investments.metlife.com/insights/agricultural-finance/us-pecan-market-insight/>.
 
-[^Ref 71]:
+[^Ref 71]: McWilliams, The Pecan, 154.
 
-[^Ref 72]:
+[^Ref 72]: McWilliams, The Pecan, 154.
 
-[^Ref 73]:
+[^Ref 73]: Kimmerer, Braiding Sweetgrass, 15, 20.
+
+[^Ref 74]:  Kimmerer, Braiding Sweetgrass, 15.
