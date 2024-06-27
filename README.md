@@ -41,19 +41,20 @@ Native Americans were the first to come into contact with the pecan nut, which t
 	region="129,21,432,404">
 
 The pecan, as an essential component of Native American diets, heavily influenced migration patterns due to its specific alternate fruiting and masting (inserting wikidata link for masting here) patterns. Specifically, nations like the Comanche, Caddo, and Kickapoo not only based their migration patterns off of the pecan's masting schedule but also may have settled where they did because of their desire to be close to abundant pecan groves. They did this in spite of the fact that the pecan’s propensity for alternate masting meant that, depending on the year, some groves would fruit, while others would not. Because of the sheer abundance of nuts that the trees would produce, however, Native Americans did not mind fitting their migration patterns around the pecans’ unusual schedule, as “The pecan trees, to an extent, told them where to go. Indians, fully sold on the nut’s worth, followed.” The pecan also eventually became a staple in Native American trade, as different groups would carry around baskets of pecans to exchange with other Native American groups. Indeed, there is evidence suggesting that Native Americans helped pecan trees spread and flourish since they carried pecans with them when they migrated and planted them in new locations. In other words, even as pecans helped them, they helped the pecans. As Potawotami botanist Robin Wall Kimmerer has written about this relationship, “Our taking returns benefits to them in the circle of life making life, the chain of reciprocity.” If Indigenous relations with pecans and pecan trees were largely reciprocal, however, this relationship would change with the arrival of new groups to the Americas. 
-<param ve-image    
+<param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/2/27/Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
-       label="Caddoan Mississippian Culture Map"
+	label="Caddoan Mississippian Culture Map"
 	license="CC0"
 	region="-2,-56,605,579">
 
+
 #### Early European Encounters
 In 1533, Spanish explorers became the first Europeans to come into contact with the pecan of North America. Álvar Núñez Cabeza de Vaca, an explorer who also became a captive of a Native American tribe, recounts being brought to an area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, he reunited with his fellow Spaniards and discovered a stretch of land on which the fruit of the pecan tree was so numerous that they named it <span data-mouseover-map-flyto="28.507321, -96.891096, 13">"the river of nuts."</span>. Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family <span eid="Q216944">Juglandaceae</span>, Europeans did not at first see a reason to cultivate a nut they thought they already enjoyed back home. 
-<param ve-image    
-url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
-       label="Map of Cabeza de Vaca Expedition"
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
+	label="Mao of Cabeza de Vaca Expedition"
 	license="CC0"
-       region="424,-301,1577,1509">
+	region="424,-301,1577,1509">
 
 Moreover, the European association of the pecan with perceived “uncivilized” Native American ways may have also contributed to a delayed recognition of the pecan as a delicious nut worth cultivating. In fact, it was not until the turn of the seventeenth century that a French Catholic missionary, Fr. Gabriel Marest, learned from the Native Americans of Illinois that it was distinct from the walnut. Writing to his Jesuit community back in Europe, he recorded, “The pecans (it is thus that the fruit of one of the Nut-trees is called) have a better flavor than our nuts in France.”
 <param ve-image      url="https://upload.wikimedia.org/wikipedia/commons/e/ea/Illinois%2C_historical_and_statistical_-_comprising_the_essential_facts_of_its_planting_and_growth_as_a_province%2C_county%2C_territory%2C_and_state_%281889%29_%2814592501177%29.jpg"
