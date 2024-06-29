@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config
-       title="Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity"
+       title="The Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity"
        author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
        layout="vertical">
