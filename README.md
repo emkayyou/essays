@@ -254,7 +254,7 @@ As is the case with the delicious pecan pie, the sweeter things in life can only
 
 [^Ref 19]: Fr. Gabriel Marest, “Letter to Father Germon,” in The Jesuit Relations and Allied Documents, ed. R.G. Thwaites (Cleveland: The Imperial Press, 1899), 227.
 
-[^Ref 20]:
+[^Ref 20]: André Michaux, Flora boreali-Americana: sistens caracteres plantarum quas in America septentrionali (Parisiis et Argentorati: Caroli Crapelet, 1803). Quotations from F. Andrew Michaux, The North American Sylva, vol. 1, trans. Robert P. Smith (Philadelphia, 1853), 74.
 
 [^Ref 21]: Michaux, North American Sylva, 74.
 
