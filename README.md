@@ -61,7 +61,7 @@ Moreover, the European association of the pecan with perceived “uncivilized”
        label="Illustrated Map of Mississippi River and Kaskaskia village"
 	description="This illustrated map shows where Marest was working"
 	license="CC0"
-       region="600,1,3004,2808">
+       region="-600,2,3004,2808">
 
 Even though European acceptance of the pecan as a viable food crop may have been stunted by racial and ethnic bias, as well as contentment with the familiar walnut, it does not mean there was no interest at all. André Michaux, an eighteenth-century botanist who published one of the first books on the trees of North America in 1803, describes the good qualities of the pecan tree, saying that the nuts are “more delicately flavored than those of Europe” and “the fruit is much larger.”[^Ref 20] Not only does he affirm the nut’s good qualities but also he asserts that the active cultivation of the pecan by way of grafting the tree would bring it “to a high degree of perfection…and no motive would discourage its propagation.”[^Ref 21]
 <param ve-image
