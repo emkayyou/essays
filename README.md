@@ -229,7 +229,7 @@ Even as pecans have become a global crop and commodity, and even an endangered o
 
 [^Ref 17]: McWilliams, 23.
 
-[^Ref 18]: McWilliams, “The Pecan: The History of America’s Native Nut,” The Arnold Arboretum of Harvard University, March 4, 2021, video, 30:00, <https://www.youtube.com/watch?v=l1n26fj4rHI.>
+[^Ref 18]: McWilliams, “The Pecan: The History of America’s Native Nut,” The Arnold Arboretum of Harvard University, March 4, 2021, video, 30:00, <https://www.youtube.com/watch?v=l1n26fj4rHI>.
 
 [^Ref 19]: Fr. Gabriel Marest, “Letter to Father Germon,” in The Jesuit Relations and Allied Documents, ed. R.G. Thwaites (Cleveland: The Imperial Press, 1899), 227.
 
@@ -269,7 +269,7 @@ Even as pecans have become a global crop and commodity, and even an endangered o
 
 [^Ref 37]: Wells, America’s Native Nut, 39.
 
-[^Ref 38]: Tiya Miles, “Every Pecan Tree: Trees, Meaning, and Memory in Enslaved Peoples’ Lives,” The Arnold Arboretum of Harvard University, March 8, 2024, video, 27:37, <https://www.youtube.com/watch?v=rCyQYMPZ46Y.>
+[^Ref 38]: Tiya Miles, “Every Pecan Tree: Trees, Meaning, and Memory in Enslaved Peoples’ Lives,” The Arnold Arboretum of Harvard University, March 8, 2024, video, 27:37, <https://www.youtube.com/watch?v=rCyQYMPZ46Y>.
 
 [^Ref 39]: Shannon, 105.
 
@@ -301,7 +301,7 @@ Even as pecans have become a global crop and commodity, and even an endangered o
 
 [^Ref 53]: Dublin, DelValle, and Perez.
 
-[^Ref 54]: “U.S. Inflation Calculator,” Coinnews Media Group LLC, accessed April 17, 2024, <https://www.usinflationcalculator.com/.>
+[^Ref 54]: “U.S. Inflation Calculator,” Coinnews Media Group LLC, accessed April 17, 2024, <https://www.usinflationcalculator.com/>.
 
 [^Ref 55]: “Story of the Strike,” by Texas Civil Liberties Union, Austin, TX, in How Did Mexican Working Women Assert Their Labor and Constitutional Rights in the 1938 San Antonio Pecan Shellers Strike?, by Thomas Dublin, Taina DelValle, and Rosalyn Perez (Binghamton, NY: State University of New York at Binghamton, 1999).
 
@@ -315,7 +315,7 @@ Even as pecans have become a global crop and commodity, and even an endangered o
 
 [^Ref 60]: Texas Civil Liberties Union, Austin, TX, “Story of the Strike,” in How Did Mexican Working Women Assert Their Labor and Constitutional Rights in the 1938 San Antonio Pecan Shellers Strike?, ed. Thomas Dublin, Taina DelValle, and Rosalyn Perez (Binghamton, NY: State University of New York at Binghamtom, 1999). Included in the Alexander Street database Women and Social Movements in the United States, 1600-2000, ed. Kathryn Kish Sklar and Thomas Dublin (Alexandria, VA, and Binghamton, NY: Alexander Street Press and the Center for the Historical Study of Women and Gender at the State University of New York at Binghamton, 2007). 
 
-[^Ref 61]: “U.S. Pecan Market Insight,” MetLife Investment Management, accessed May 6, 2024, <https://investments.metlife.com/insights/agricultural-finance/us-pecan-market-insight/.>
+[^Ref 61]: “U.S. Pecan Market Insight,” MetLife Investment Management, accessed May 6, 2024, <https://investments.metlife.com/insights/agricultural-finance/us-pecan-market-insight/>.
 
 [^Ref 62]: McWilliams, 154.
 
