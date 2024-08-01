@@ -6,8 +6,8 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
        layout="vertical">
 
-#### Pies and Pronunciations  
-During the annual Thanksgiving celebration in America, around the country, friends and family gather to enjoy, among other delectables, pecan pie. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^Ref 1] How do you say it? Cast your vote on pronunciation [here.](https://www.surveymonkey.com/r/TPDNWFK)
+#### Pies and Pronunciation  
+During the annual Thanksgiving celebration in America, friends and family gather around the country to enjoy pecan pie, among other delectables. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^Ref 1] How do you say it? Cast your vote on pronunciation [here](https://www.surveymonkey.com/r/TPDNWFK).
 <param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
  	label="Pecans Having a Disagreement, courtesy of Allison Caban"
