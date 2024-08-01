@@ -237,7 +237,7 @@ Even as pecans have become a global crop and commodity, and even an endangered o
 
 [^Ref 21]: Michaux, North American Sylva, 74.
 
-[^Ref 22]: C.W. Melnyk, C. Schuster, O. Leyser, and E.M. Meyerowitz, “A Developmental Framework for Graft Formation and Vascular Reconnection in Arabidopsis thaliana,” Current Biology 25, no. 10 (2015), 1306–18, doi: 10.1016/j.cub.2015.03.032.
+[^Ref 22]: C.W. Melnyk, C. Schuster, O. Leyser, and E.M. Meyerowitz, “A Developmental Framework for Graft Formation and Vascular Reconnection in Arabidopsis thaliana,” Current Biology 25, no. 10 (2015), 1306–18, <doi: 10.1016/j.cub.2015.03.032>.
 
 [^Ref 23]: McWilliams, 59.
 
