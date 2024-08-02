@@ -116,11 +116,7 @@ The increased number of pecan orchards cultivating improved varieties and the es
        license="Public Domain">
 
 In response to this injustice, the laborers, led by union organizer [Emma Tenayuca,](https://en.wikipedia.org/wiki/Emma_Tenayuca) started the Pecan Shellers’ Strike of 1938, a three-month protest that gained international coverage.[^Ref 48] The strike eventually led to the federal government enacting the <span eid="Q3064514">Fair Labor Standards Act</span>, which resulted in pecan factory workers earning double or even triple what they did before.[^Ref 49] The tragic irony, however, was that, in response to the new law, companies reduced the number of laborers and invested in pecan shelling machinery. The law enacted to protect laborers resulted in the loss of 10,000 jobs in pecan factories over the next 10 years, and the Pecan Workers Union #172, which led the shellers’ strike, was disbanded in 1948.[^Ref 50] Despite leading the charge in labor rights, the laborers of pecan factories became “the only major group of workers displaced as a direct result” of the Fair Labor Standards Act.[^Ref 51]
-<param ve-image
-       url="https://www.peoplesworld.org/wp-content/uploads/2008/03/EmmaT960x540.jpg"
-       label="Emma Tenayuca Leading Fellow Workers"
-       description="Labor Activist"
-       license="Fair Use">
+<param ve-image url="https://www.peoplesworld.org/wp-content/uploads/2008/03/EmmaT960x540.jpg" label="Emma Tenayuca Leading Fellow Workers" description="Labor Activist" license="Fair Use">
 
 The treatment of laborers in pecan factories is not dissimilar to the treatment of pecan trees cultivated on orchard lands. While women and men, seated equidistant from each other on an assembly line, were valued only according to their level of production, the pecan, homogenized in perfectly planted rows, was valued only for its coveted produce. Even though this period of high productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. The ongoing genetic homogenization of the pecan within a capitalistic paradigm threatened the very source of the pecan’s power to adapt and survive: genetic diversity. As time went on, the narrowing gene pool and reduced naturally occurring varieties of the pecan posed significant challenges for farmers and the pecan itself.[^Ref 52]
 <param ve-image
