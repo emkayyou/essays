@@ -2,7 +2,7 @@
 
 <param ve-config
        title="Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity"
-       author="MaryKathryn Underwood, Stefania Rocca, Paolo Taffaro"
+       author="MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Georgia%2C_historical_and_industrial_%281901%29_%2814593605160%29.jpg"
        layout="vertical">
 
