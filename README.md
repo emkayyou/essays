@@ -214,21 +214,21 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 12]: McWilliams, 23.
 
-[^Ref 13]: McWilliams, “The Pecan: The History of America’s Native Nut,” The Arnold Arboretum of Harvard University, March 4, 2021, video, 30:00, https://www.youtube.com/watch?v=l1n26fj4rHI.
+[^Ref 13]: McWilliams, “The Pecan: The History of America’s Native Nut,” The Arnold Arboretum of Harvard University, March 4, 2021, video, 30:00, <https://www.youtube.com/watch?v=l1n26fj4rHI>.
 
 [^Ref 14]: Fr. Gabriel Marest, “Letter to Father Germon,” in *The Jesuit Relations and Allied Documents,* ed. R.G. Thwaites (Cleveland: The Imperial Press, 1899), 227.
 
-[^Ref 15]: André Michaux, *Flora boreali-Americana: sistens caracteres plantarum quas in America septentrionali* (Parisiis et Argentorati: Caroli Crapelet, 1803). Quotations from F. Andrew Michaux, The North American Sylva, vol. 1, trans. Robert P. Smith (Philadelphia, 1853), 74.
+[^Ref 15]: André Michaux, *Flora boreali-Americana: sistens caracteres plantarum quas in America septentrionali* (Parisiis et Argentorati: Caroli Crapelet, 1803). Quotations from F. Andrew Michaux, *The North American Sylva*, vol. 1, trans. Robert P. Smith (Philadelphia, 1853), 74.
 
 [^Ref 16]: Michaux, *North American Sylva,* 74.
 
-[^Ref 17]: C.W. Melnyk, C. Schuster, O. Leyser, and E.M. Meyerowitz, “A Developmental Framework for Graft Formation and Vascular Reconnection in Arabidopsis thaliana,” *Current Biology* 25, no. 10 (2015), 1306–18, doi: 10.1016/j.cub.2015.03.032.
+[^Ref 17]: C.W. Melnyk, C. Schuster, O. Leyser, and E.M. Meyerowitz, “A Developmental Framework for Graft Formation and Vascular Reconnection in Arabidopsis thaliana,” *Current Biology* 25, no. 10 (2015), 1306–18, doi: <10.1016/j.cub.2015.03.032>.
 
 [^Ref 18]: McWilliams, 59.
 
 [^Ref 19]: McWilliams, 60.
 
-[^Ref 20]: AMcWilliams, 61.
+[^Ref 20]: McWilliams, 61.
 
 [^Ref 21]: McWilliams, 61.
 
@@ -250,9 +250,9 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 30]: Shannon, 101.
 
-[^Ref 31]: Wells, *America’s Native Nut,* 39.
+[^Ref 31]: Wells, 39.
 
-[^Ref 32]: Tiya Miles, “Every Pecan Tree: Trees, Meaning, and Memory in Enslaved Peoples’ Lives,” The Arnold Arboretum of Harvard University, March 8, 2024, video, 27:37, https://www.youtube.com/watch?v=rCyQYMPZ46Y.
+[^Ref 32]: Tiya Miles, “Every Pecan Tree: Trees, Meaning, and Memory in Enslaved Peoples’ Lives,” The Arnold Arboretum of Harvard University, March 8, 2024, video, 27:37, <https://www.youtube.com/watch?v=rCyQYMPZ46Y>.
 
 [^Ref 33]: Shannon, 105.
 
@@ -264,7 +264,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 37]: McWilliams, 64.
 
-[^Ref 38]: H. P. Stuckey and E. J. Kyle, *Pecan-Growing.* (New York: Macmillan, 1925), 17.
+[^Ref 38]: H. P. Stuckey and E. J. Kyle, *Pecan-Growing* (New York: Macmillan, 1925), 17.
 
 [^Ref 39]: Stuckey and Kyle, 22.
 
@@ -272,7 +272,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 41]: *Facts About Paper Shell Pecans. Your Opportunity Growing Them in Sunny Florida* (Illinois: Oak Ridge Pecan Company, 1910), 8.
 
-[^Ref 42]: C. A. Yancey, *Let Me Plant a Pecan Grove for You* (Bunkie, Louisiana, 1909), 4.
+[^Ref 42]: C. A. Yancey, *Let Me Plant a Pecan Grove for You* (Bunkie, La., 1909), 4.
 
 [^Ref 43]: Yancey, 11–14.
 
@@ -282,7 +282,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 46]: Texas Civil Liberties Union, Austin, TX, “San Antonio’s Pecan Industry: Monopoly and Misery.”
 
-[^Ref 47]: “U.S. Inflation Calculator,” Coinnews Media Group LLC, accessed April 17, 2024, https://www.usinflationcalculator.com/.
+[^Ref 47]: “U.S. Inflation Calculator,” Coinnews Media Group LLC, accessed April 17, 2024, <https://www.usinflationcalculator.com/>.
 
 [^Ref 48]: Texas Civil Liberties Union, Austin, TX, “Story of the Strike,” in *How Did Mexican Working Women Assert Their Labor and Constitutional Rights in the 1938 San Antonio Pecan Shellers Strike?,* ed. Thomas Dublin, Taina DelValle, and Rosalyn Perez (Binghamton, NY: State University of New York at Binghamtom, 1999). Included in the Alexander Street database *Women and Social Movements in the United States, 1600-2000,* ed. Kathryn Kish Sklar and Thomas Dublin (Alexandria, VA, and Binghamton, NY: Alexander Street Press and the Center for the Historical Study of Women and Gender at the State University of New York at Binghamton, 2007).
 
@@ -298,7 +298,7 @@ Even as pecans have become a global crop and commodity, and an increasingly enda
 
 [^Ref 54]: McWilliams, 142.
 
-[^Ref 55]: “U.S. Pecan Market Insight,” MetLife Investment Management, accessed May 6, 2024, https://investments.metlife.com/insights/agricultural-finance/us-pecan-market-insight/.
+[^Ref 55]: “U.S. Pecan Market Insight,” MetLife Investment Management, accessed May 6, 2024, <https://investments.metlife.com/insights/agricultural-finance/us-pecan-market-insight/>.
 
 [^Ref 56]: McWilliams, 154.
 
