@@ -7,10 +7,11 @@
        layout="vertical">
 
 #### Pies and Pronunciation  
-During the annual Thanksgiving celebration in America, around the country, friends and family gather to enjoy, among other delectables, pecan pie. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^Ref 1] How do you say it? Cast your vote on pronunciation [here](https://www.surveymonkey.com/r/TPDNWFK).<param ve-image
+During the annual Thanksgiving celebration in America, around the country, friends and family gather to enjoy, among other delectables, pecan pie. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^Ref 1] How do you say it? Cast your vote on pronunciation [here](https://www.surveymonkey.com/r/TPDNWFK).
+<param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
- 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
-  	description="Pecans discuss how to call themselves"
+	label="Pecans Having a Disagreement, courtesy of Allison Caban"
+	description="Pecans discuss how to call themselves"
 	license="Courtesy of Allison Caban">
 
 Whether you pronounce it PEE-CAN or puh-KHAN, this the pecan has a history richer and more complex than its popularity as the basis for the Thanksgiving pie might suggest. As historian James McWilliams has argued, the pecan (*Carya illinoinensis*) has been an important food source for people in the Americas for thousands of years due to its high nutritional value and abundance. As he also points out, however, there has been a change in our relationship to the pecan in recent years: for most of history, humans relied on wild pecans for food, since wild pecan populations were unusually resilient and capable of maintaining themselves. In other words, humans adapted to the rhythms and life cycles of the pecan. Beginning in the late nineteenth century, however, pecan cultivation ramped up as humans began to seek to control pecan production and increase output. This trend has resulted in numerous potential threats to the pecan, including loss of genetic diversity and potential extinction. Even so, Indigenous botanists like Robin Wall Kimmerer have pointed to a solution. While the future of the pecan may appear grim, the answer to the problem of its possible disappearance lies within the deep history of its relationship with humans. If we could return to a more reciprocal, mutually beneficial relationship with pecans, both we and pecans could flourish. 
