@@ -8,6 +8,7 @@
 
 #### Pies and Pronunciation  
 During the annual Thanksgiving celebration in America, around the country, friends and family gather to enjoy, among other delectables, pecan pie. The debate on how to pronounce this delicious treat will forever be ongoing. Some say that if you live below the Mason-Dixon line, you pronounce the dessert as puh-KHAN pie, but this is not necessarily true. In fact, one poll found that 45 percent of Southern residents say PEE-CAN pie, as do 70 percent of northerners.[^Ref 1] How do you say it? Cast your vote on pronunciation [here](https://www.surveymonkey.com/r/TPDNWFK).
+
 <param ve-image
 	url="https://github.com/emkayyou/essays/blob/main/image0.jpeg?raw=true"
 	label="Pecans Having a Disagreement, courtesy of Allison Caban"
@@ -15,15 +16,16 @@ During the annual Thanksgiving celebration in America, around the country, frien
 	license="Courtesy of Allison Caban">
 
 Whether you pronounce it PEE-CAN or puh-KHAN, this the pecan has a history richer and more complex than its popularity as the basis for the Thanksgiving pie might suggest. As historian James McWilliams has argued, the pecan (*Carya illinoinensis*) has been an important food source for people in the Americas for thousands of years due to its high nutritional value and abundance. As he also points out, however, there has been a change in our relationship to the pecan in recent years: for most of history, humans relied on wild pecans for food, since wild pecan populations were unusually resilient and capable of maintaining themselves. In other words, humans adapted to the rhythms and life cycles of the pecan. Beginning in the late nineteenth century, however, pecan cultivation ramped up as humans began to seek to control pecan production and increase output. This trend has resulted in numerous potential threats to the pecan, including loss of genetic diversity and potential extinction. Even so, Indigenous botanists like Robin Wall Kimmerer have pointed to a solution. While the future of the pecan may appear grim, the answer to the problem of its possible disappearance lies within the deep history of its relationship with humans. If we could return to a more reciprocal, mutually beneficial relationship with pecans, both we and pecans could flourish. 
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/50/Pecan_pie_%288030810481%29.jpg"
-       label="Pecan Pie at Thanksgiving"
-       description="Pecan Pie"
-       license="CC BY-SA 2.0">
 
-
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/5/50/Pecan_pie_%288030810481%29.jpg"
+	label="Pecan Pie at Thanksgiving"
+	description="Pecan Pie"
+	license="CC BY-SA 2.0">
+ 
 #### Native American Discovery and Use
 Native Americans were the first to come into contact with the pecan, which they named pakan,[^Ref 2] some 30,000–12,000 years ago. The pecan quickly became a popular foodstuff due to its abundance, resilience, and nutritious components, which included significant amounts of protein, fiber, and fat.[^Ref 3] Foraging pecans was easy: gatherers would simply wait for the nuts to fall or throw a stick at the tree to knock them down.[^Ref 4] Simple tools like rocks were used to crack open the shell. The nuts were also boiled and stored for later use as they lasted for long periods of time. The nut could be eaten in many different forms and various ways, including as a powder added to breads, meats, porridges, and even alcoholic beverages.
+
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg/640px-Starr-110415-5164-Carya_illinoinensis-cracked_seeds_from_tree_at_MISC_HQ_Piiholo-Hawea_Pl_Olinda-Maui_%2824455970883%29.jpg"
 	label="Cracked pecan shells"
@@ -32,15 +34,16 @@ Native Americans were the first to come into contact with the pecan, which they 
 	region="129,21,432,404">
 
 As an essential component of Native American diets, the pecan greatly influenced migration patterns due to its specific fruiting and masting (inserting wikidata link for masting here) patterns.[^Ref 5] Nations like the Comanche, Caddo, and Kickapoo not only based their migration patterns on the pecan's masting schedule but also may have settled where they did because of their desire to be close to abundant pecan groves.[^Ref 6] They did this despite pecan’s propensity for alternate masting: depending on the year, some groves would fruit while others would not.[^Ref 7] Because of the sheer abundance of nuts that the trees produced, however, Native Americans fit their migration patterns around the pecans’ unusual schedule, as “The pecan trees, to an extent, told them where to go. Indians, fully sold on the nut’s worth, followed.”[^Ref 8] The pecan also became a staple in Native American trade, as different groups would travel with baskets of pecans to exchange with other Native American groups.[^Ref 9] Indeed, there is evidence suggesting that Native Americans helped pecan trees spread and flourish since they carried pecans when they migrated and planted them in new locations. And so, even as pecans helped them, they helped the pecans. As Potawotami botanist Robin Wall Kimmerer has written about this relationship, “Our taking returns benefits to them in the circle of life making life, the chain of reciprocity.”[^Ref 10] While Indigenous relations with pecans and pecan trees were largely reciprocal, this relationship changed with the arrival of new groups to the Americas. 
+
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/2/27/Caddoan_Mississippian_culture_map_HRoe_2010.jpg"
 	label="Caddoan Mississippian Culture Map"
 	license="CC0"
 	region="-2,-56,605,579">
-
-
+ 
 #### Early European Encounters
 In 1533, Spanish explorers became the first Europeans to encounter the North American pecan. Álvar Núñez Cabeza de Vaca, an explorer who also became a captive of a Native American tribe, recounts being brought to an area southeast of what is now San Antonio, Texas, near the confluence of the Guadalupe and San Antonio Rivers. There, he reunited with his fellow Spaniards and discovered a stretch of land on which the fruit of the pecan tree was so abundant that they named it “the river of nuts.”[^Ref 11] Interestingly, though, since the pecan bears a striking similarity to the European walnut, as they both belong to the family Juglandaceae, Europeans did not at first see a reason to cultivate a nut they thought they already enjoyed back home.[^Ref 12]
+
 <param ve-image
 	url="https://upload.wikimedia.org/wikipedia/commons/2/23/Expedition_Cabeza_de_Vaca_Karte.png"
 	label="Mao of Cabeza de Vaca Expedition"
