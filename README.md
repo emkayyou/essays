@@ -94,12 +94,12 @@ After Télésphore Roman’s death in 1848, care of Oak Alley fell to his wife, 
 
 #### Pecan as Commodity 
 Between the nineteenth and twentieth centuries, pecan grafting allowed the nut to be grown in a more purposeful and organized fashion, transforming it from a “native nut” to a commercialized commodity.[^Ref 38] The knowledge of and ability to graft pecans transformed the nut into a burgeoning business as many landowners realized how easy and profitable it was to grow it.[^Ref 39]
-<param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
-label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm" 
-description="contained pecan farm in Louisiana, 1917-1964"
-license="CC0"
-fit="contain">
+<param ve-image
+	url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg/640px-Louisiana_-_U.S._Department_of_Agriculture_Exprimental_Pecan_Farm_-_NARA_-_23940505.jpg"
+	label="Louisiana - U.S. Department of Agriculture Exprimental Pecan Farm"
+	description="contained pecan farm in Louisiana, 1917-1964"
+	license="CC0"
+	fit="contain">
 
 The popularization of this lucrative business opportunity is apparent in the many pamphlets and guides the landowners produced. The pamphlets instructed the reader, assumed to be a beginner-grower, on how to grow and tend to a pecan grove and how to ensure successful profit from it, including when and where they should grow their pecan groves, what tools they needed, how to fight off insects and diseases, and more, to assure proper growth.[^Ref 40]
 <param ve-iframe src="https://archive.org/embed/CAT31332999/page/n5/mode/2up">
@@ -120,10 +120,10 @@ In response to this injustice, the laborers, led by union organizer [Emma Tenayu
 
 The treatment of laborers in pecan factories is not dissimilar to the treatment of pecan trees cultivated on orchard lands. While women and men, seated equidistant from each other on an assembly line, were valued only according to their level of production, the pecan, homogenized in perfectly planted rows, was valued only for its coveted produce. Even though this period of high productivity and agricultural advancement may be seen as a feat of human cultivation, it is also marked by the fraught relationship between humans and the natural world. The ongoing genetic homogenization of the pecan within a capitalistic paradigm threatened the very source of the pecan’s power to adapt and survive: genetic diversity. As time went on, the narrowing gene pool and reduced naturally occurring varieties of the pecan posed significant challenges for farmers and the pecan itself.[^Ref 52]
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Irrigating_Pecans.jpg?20120729204241"
-       label="Pecan Orchard being irrigated"
-       description="Industrialization of Pecan"
-       license="Public Domain">
+	url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Irrigating_Pecans.jpg?20120729204241"
+	label="Pecan Orchard being irrigated"
+	description="Industrialization of Pecan"
+	license="Public Domain">
 
 #### Monoculture: Trade, Economic Growth, and Decreased Genetic Diversity
 Industrialization of the pecan by way of <span eid="Q220212">Monoculture</span>  (prioritizing uniform rows, cheap land, and low labor costs), led to an astronomical increase in pecan production. Since pecans were yielding more than Americans could consume, the United States had to figure out what to do with all these nuts. This resulted in the creation of new uses for pecans. From cereals to breads to candies, culinary chefs concocted new ways to incorporate pecans into their desserts and foods. And so the pecan pie emerges as a staple in the American South—especially in New Orleans—during the 1930s, becoming the most popular new use for pecans by the 1950s. As the number of pecans increased over the years, the dessert became a nationwide classic.[^Ref 53] Nevertheless, even as creative solutions to pecan overproduction may have facilitated new ways of enjoying the pecan, by the 1990s, U. S. consumers reached their limit for pecan consumption, and cereal brands were switching from pecans as their nut of choice to walnuts, leaving farmers with the same problem: too many nuts.
